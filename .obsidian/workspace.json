@@ -144,13 +144,23 @@
               "icon": "lucide-list",
               "title": "Welcomeのアウトライン"
             }
+          },
+          {
+            "id": "5203db03be87ea1d",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,7 +173,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2d1b8af795c90bb3",
+  "active": "605caede5827f2cd",
   "lastOpenFiles": [
     "README.md",
     "Welcome.md"
