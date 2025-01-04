@@ -11,14 +11,14 @@
             "id": "3c3867f390205418",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "create a link.md",
-                "bFile": "create a link.md",
-                "aRef": ""
+                "file": "残念.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: create a link"
+              "icon": "lucide-file",
+              "title": "残念"
             }
           }
         ]
@@ -93,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "残念.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "バックリンク"
+              "title": "残念へのバックリンク"
             }
           },
           {
@@ -111,11 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "残念.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "アウトゴーイングリンク"
+              "title": "残念からのアウトゴーイングリンク"
             }
           },
           {
@@ -136,9 +138,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "残念.md"
+              },
               "icon": "lucide-list",
-              "title": "アウトライン"
+              "title": "残念のアウトライン"
             }
           },
           {
@@ -169,7 +173,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5203db03be87ea1d",
+  "active": "3c3867f390205418",
   "lastOpenFiles": [
     "残念.md",
     "README.md",
