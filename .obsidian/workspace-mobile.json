@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ゲーム/葬列/神性存在.md",
+                "file": "ゲーム/GODOT/環境構築.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "神性存在"
+              "title": "環境構築"
             }
           }
         ],
@@ -164,6 +164,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:クイックスイッチャーを開く": false,
       "graph:グラフビューを開く": false,
       "canvas:新規キャンバスを作成": false,
@@ -173,8 +174,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7e365d556929e806",
+  "active": "c8027e26ccdb868d",
   "lastOpenFiles": [
+    "ゲーム/葬列/世界.md",
+    "ゲーム/葬列/ゲームエンジン.md",
+    "ゲーム/葬列/神性存在.md",
+    "/ゲーム/GODOT/環境構築.md",
+    "/ゲーム/GODOT/attach/Pasted image 20250105075618.png",
     "ゲーム/GODOT/環境構築.md",
     "ゲーム/GODOT/attach/Pasted image 20250105070712.png",
     "ゲーム/GODOT/attach/Pasted image 20250105070238.png",
@@ -185,22 +191,17 @@
     "ゲーム/GODOT/attach/Pasted image 20250105065414.png",
     "ゲーム/GODOT/attach/Pasted image 20250105064555.png",
     "/ゲーム/葬列/神性存在.md",
-    "/ゲーム/GODOT/環境構築.md",
     "/ゲーム/GODOT/attach/Pasted image 20250105070712.png",
-    "/ゲーム/GODOT/attach/Pasted image 20250105070238.png",
     "ゲーム/GODOT/attach",
     "ゲーム/GODOT",
     "/ゲーム/GODOT/attach",
     "/ゲーム/GODOT",
-    "ゲーム/葬列/世界.md",
-    "ゲーム/葬列/神性存在.md",
     "ゲーム/葬列/職能.md",
     "ゲーム/葬列/戦闘システム.md",
     "ゲーム/葬列/タイトル.md",
     "ゲーム/葬列/友好度.md",
     "雑記/ファイル連携.md",
     "ゲーム/葬列/街.md",
-    "ゲーム/葬列/ゲームエンジン.md",
     "/ゲーム/葬列/街.md",
     "/ゲーム/葬列/ゲームエンジン.md",
     "ゲーム/葬列/ゲーム案.md",
@@ -214,7 +215,6 @@
     "/ゲーム/葬列/チュートリアル.md",
     "/ゲーム/葬列/ゲーム案.md",
     "/root.md",
-    "/雑記/残念.md",
     "雑記",
     "/雑記"
   ]
