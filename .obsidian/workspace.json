@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ゲーム/GODOT/環境構築.md",
+                "file": "ゲーム/葬列/世界.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "環境構築"
+              "title": "世界"
             }
           },
           {
@@ -261,18 +261,6 @@
             }
           },
           {
-            "id": "cbb644b8cd4f76cf",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "残念.md"
-              },
-              "icon": "lucide-list",
-              "title": "残念のアウトライン"
-            }
-          },
-          {
             "id": "5203db03be87ea1d",
             "type": "leaf",
             "state": {
@@ -283,7 +271,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -303,6 +291,8 @@
   },
   "active": "86cb3e540147bfc2",
   "lastOpenFiles": [
+    "ゲーム/葬列/神性存在.md",
+    "ゲーム/GODOT/環境構築.md",
     "ゲーム/GODOT/attach/Pasted image 20250105075618.png",
     "ゲーム/GODOT/attach/Pasted image 20250105070712.png",
     "ゲーム/GODOT/attach/Pasted image 20250105070238.png",
@@ -313,8 +303,6 @@
     "ゲーム/GODOT/attach/Pasted image 20250105065414.png",
     "ゲーム/GODOT/attach/Pasted image 20250105064555.png",
     "ゲーム/GODOT/attach",
-    "ゲーム/葬列/神性存在.md",
-    "ゲーム/GODOT/環境構築.md",
     "ゲーム/GODOT",
     "ゲーム/葬列/タイトル.md",
     "root.md",
@@ -324,7 +312,6 @@
     "ゲーム/葬列/街.md",
     "ゲーム/葬列/チュートリアル.md",
     "ゲーム/葬列/attach/Pasted image 20250105022451.png",
-    "ゲーム/葬列/attach/Pasted image 20250105022324.png",
     "ゲーム/葬列/世界.md",
     "ゲーム/葬列/戦闘システム.md",
     "ゲーム/葬列/職能.md",
