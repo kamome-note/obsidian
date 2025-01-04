@@ -133,9 +133,19 @@
           "icon": "lucide-list",
           "title": "Outline"
         }
+      },
+      {
+        "id": "7e365d556929e806",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
       }
     ],
-    "currentTab": 0
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -149,5 +159,8 @@
     }
   },
   "active": "e3783bd78f314823",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "ゲーム/葬列/世界.md",
+    "残念.md"
+  ]
 }
