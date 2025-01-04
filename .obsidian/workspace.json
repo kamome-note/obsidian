@@ -283,17 +283,18 @@
       "daily-notes:今日のデイリーノートを開く": false,
       "templates:テンプレートを挿入": false,
       "command-palette:コマンドパレットを開く": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "664f28976381d6ec",
   "lastOpenFiles": [
     "ゲーム/葬列/街.md",
     "ゲーム/葬列/ゲームエンジン.md",
+    "ゲーム/葬列/チュートリアル.md",
     "ゲーム/葬列/attach/Pasted image 20250105022451.png",
     "ゲーム/葬列/attach/Pasted image 20250105022324.png",
     "ゲーム/葬列/世界.md",
-    "ゲーム/葬列/チュートリアル.md",
     "ゲーム/葬列/神性存在.md",
     "ゲーム/葬列/戦闘システム.md",
     "ゲーム/葬列/職能.md",
