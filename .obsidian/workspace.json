@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Welcome"
             }
+          },
+          {
+            "id": "172e58fd2000467d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ゲーム/葬列/世界.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "世界"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "ゲーム/葬列/世界.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Welcomeへのバックリンク"
+              "title": "世界へのバックリンク"
             }
           },
           {
@@ -112,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "ゲーム/葬列/世界.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Welcomeからのアウトゴーイングリンク"
+              "title": "世界からのアウトゴーイングリンク"
             }
           },
           {
@@ -139,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md"
+                "file": "ゲーム/葬列/世界.md"
               },
               "icon": "lucide-list",
-              "title": "Welcomeのアウトライン"
+              "title": "世界のアウトライン"
             }
           },
           {
@@ -173,11 +188,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "605caede5827f2cd",
+  "active": "172e58fd2000467d",
   "lastOpenFiles": [
-    "Pasted image 20250102190521.png",
     "Welcome.md",
+    "ゲーム/葬列/世界.md",
+    "ゲーム/葬列",
+    "ゲーム",
+    "README.md",
     "create a link.md",
-    "README.md"
+    "Pasted image 20250102190521.png"
   ]
 }
