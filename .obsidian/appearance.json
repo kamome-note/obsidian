@@ -1,1 +1,7 @@
-{}
+{
+  "theme": "obsidian",
+  "cssTheme": "Obsidian Nord",
+  "textFontFamily": "Hiragino Sans",
+  "monospaceFontFamily": "Andale Mono",
+  "interfaceFontFamily": "Hiragino Sans"
+}
