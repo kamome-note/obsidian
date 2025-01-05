@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ゲーム/葬列/職能.md",
+                "file": "ゲーム/葬列/教会機関.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "職能"
+              "title": "教会機関"
             }
           }
         ],
@@ -216,10 +216,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7e365d556929e806",
+  "active": "e8aa4261a3c77ef6",
   "lastOpenFiles": [
-    "ゲーム/葬列/神性存在.md",
     "ゲーム/葬列/職能.md",
+    "雑記/attach/Pasted image 20250106002445.png",
+    "雑記/attach/Pasted image 20250106002231.png",
+    "雑記/attach/Pasted image 20250106001949.png",
+    "雑記/Ko-fi.md",
+    "/雑記/attach/Pasted image 20250106002445.png",
+    "/雑記/attach/Pasted image 20250106002231.png",
+    "/雑記/attach/Pasted image 20250106001949.png",
+    "/雑記/Ko-fi.md",
+    "/ゲーム/葬列/教会機関.md",
+    "/ゲーム/GODOT/環境構築.md",
+    "雑記/attach",
+    "/雑記/attach",
+    "ゲーム/葬列/神性存在.md",
     "ゲーム/葬列/教会機関.md",
     "ゲーム/葬列/解体.md",
     "ゲーム/葬列/汚染.md",
@@ -227,18 +239,11 @@
     "ゲーム/GODOT/環境構築.md",
     "ゲーム/葬列/世界.md",
     "ゲーム/葬列/ゲームエンジン.md",
-    "/ゲーム/GODOT/環境構築.md",
     "/ゲーム/GODOT/attach/Pasted image 20250105075618.png",
     "ゲーム/GODOT/attach/Pasted image 20250105070712.png",
     "ゲーム/GODOT/attach/Pasted image 20250105070238.png",
     "ゲーム/GODOT/attach/Pasted image 20250105065832.png",
-    "ゲーム/GODOT/attach/Pasted image 20250105065542.png",
-    "ゲーム/GODOT/attach/Pasted image 20250105065504.png",
-    "ゲーム/GODOT/attach/Pasted image 20250105065446.png",
-    "ゲーム/GODOT/attach/Pasted image 20250105065414.png",
-    "ゲーム/GODOT/attach/Pasted image 20250105064555.png",
     "/ゲーム/葬列/神性存在.md",
-    "/ゲーム/GODOT/attach/Pasted image 20250105070712.png",
     "ゲーム/GODOT/attach",
     "ゲーム/GODOT",
     "/ゲーム/GODOT/attach",
@@ -254,10 +259,6 @@
     "ゲーム/葬列/チュートリアル.md",
     "root.md",
     "/ゲーム/葬列/葬列.md",
-    "/ゲーム/葬列/職能.md",
-    "/ゲーム/葬列/物語の要素.md",
-    "/ゲーム/葬列/戦闘システム.md",
-    "/ゲーム/葬列/チュートリアル.md",
     "雑記",
     "/雑記"
   ]
