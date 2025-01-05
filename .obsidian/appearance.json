@@ -1,7 +1,7 @@
 {
   "theme": "obsidian",
   "cssTheme": "Obsidian Nord",
-  "textFontFamily": "Hiragino Sans",
+  "textFontFamily": "Hiragino Sans GB",
   "monospaceFontFamily": "Andale Mono",
-  "interfaceFontFamily": "Hiragino Sans"
+  "interfaceFontFamily": "Hiragino Sans GB"
 }
