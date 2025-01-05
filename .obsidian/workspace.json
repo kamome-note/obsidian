@@ -13,15 +13,58 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ゲーム/葬列/教会機関.md",
+                "file": "ゲーム/葬列/世界.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "教会機関"
+              "title": "世界"
+            }
+          },
+          {
+            "id": "533a1891d774224c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "雑記/ファイル連携.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ファイル連携"
+            }
+          },
+          {
+            "id": "2672b4eec9e3128c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ゲーム/技術雑記/ドット絵.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ドット絵"
+            }
+          },
+          {
+            "id": "bbb7bd089260af90",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ゲーム/葬列/汚染.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "汚染"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -174,39 +217,43 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7ed68b52c5fe6118",
+  "active": "bbb7bd089260af90",
   "lastOpenFiles": [
-    "ゲーム/葬列/世界.md",
-    "ゲーム/葬列/街.md",
-    "ゲーム/葬列/戦闘システム.md",
-    "ゲーム/葬列/タイトル.md",
-    "ゲーム/葬列/汚染.md",
-    "ゲーム/葬列/教会機関.md",
-    "ゲーム/葬列/友好度.md",
-    "雑記/Ko-fi.md",
-    "雑記/attach/Pasted image 20250106002445.png",
-    "雑記/attach/Pasted image 20250106002231.png",
-    "雑記/attach/Pasted image 20250106001949.png",
-    "雑記/attach",
-    "雑記/ファイル連携.md",
-    "ゲーム/GODOT/環境構築.md",
-    "ゲーム/GODOT/attach/Pasted image 20250105075618.png",
-    "ゲーム/GODOT/attach/Pasted image 20250105070238.png",
-    "ゲーム/GODOT/attach/Pasted image 20250105070712.png",
-    "ゲーム/GODOT/attach/Pasted image 20250105065832.png",
-    "ゲーム/GODOT/attach/Pasted image 20250105065542.png",
-    "ゲーム/GODOT/attach/Pasted image 20250105065504.png",
-    "ゲーム/GODOT/attach/Pasted image 20250105065446.png",
-    "ゲーム/葬列/チュートリアル.md",
-    "ゲーム/葬列/神性存在.md",
+    "ゲーム/技術雑記/物語の要素.md",
+    "ゲーム/技術雑記/Ko-fi.md",
+    "ゲーム/技術雑記/ドット絵.md",
+    "ゲーム/技術雑記/ボードゲーム.md",
     "ゲーム/葬列/ゲーム案.md",
+    "ゲーム/葬列/チュートリアル.md",
+    "ゲーム/葬列/ゲームエンジン.md",
+    "ゲーム/葬列/街.md",
+    "ゲーム/葬列/タイトル.md",
+    "ゲーム/葬列/友好度.md",
+    "ゲーム/葬列/戦闘システム.md",
     "ゲーム/葬列/解体.md",
+    "ゲーム/葬列/神性存在.md",
+    "ゲーム/葬列/教会機関.md",
     "ゲーム/葬列/職能.md",
+    "ゲーム/葬列/世界.md",
+    "ゲーム/葬列/デザイン.md",
+    "ゲーム/葬列/汚染.md",
+    "ゲーム/葬列/attach/Pasted image 20250106035445.png",
+    "ゲーム/葬列/attach/Pasted image 20250106035429.png",
+    "ゲーム/葬列/attach/Pasted image 20250106035415.png",
+    "ゲーム/葬列/attach/Pasted image 20250106035401.png",
+    "ゲーム/葬列/attach/Pasted image 20250106035330.png",
+    "ゲーム/葬列/attach/Pasted image 20250106035259.png",
+    "ゲーム/葬列/attach/Pasted image 20250106035244.png",
+    "ゲーム/葬列/attach/Pasted image 20250106035212.png",
+    "ゲーム/葬列/attach/Pasted image 20250106035156.png",
+    "ゲーム/葬列/attach/Pasted image 20250106035055.png",
+    "雑記/ファイル連携.md",
+    "ゲーム/技術雑記",
+    "ゲーム/技術雑記/attach",
+    "ゲーム/GODOT/環境構築.md",
     "ゲーム/GODOT/attach",
     "ゲーム/GODOT",
     "root.md",
-    "ゲーム/葬列/ゲームエンジン.md",
-    "ゲーム/葬列/物語の要素.md",
     "ゲーム/葬列/葬列.md",
     "雑記/残念.md",
     "雑記",
