@@ -1,7 +1,7 @@
 {
   "theme": "obsidian",
   "cssTheme": "Minimal",
-  "textFontFamily": "Noto Sans JP",
-  "monospaceFontFamily": "Andale Mono",
+  "textFontFamily": "Noto Sans Javanese",
+  "monospaceFontFamily": "Source Code Pro",
   "interfaceFontFamily": "Noto Sans JP"
 }

@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ゲーム/葬列/汚染.md",
+                "file": "ゲーム/葬列/世界.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "汚染"
+              "title": "世界"
             }
           },
           {
@@ -317,9 +317,13 @@
   },
   "active": "8063a0d47c0e7d61",
   "lastOpenFiles": [
+    "ゲーム/葬列/戦闘システム.md",
+    "ゲーム/葬列/街.md",
+    "ゲーム/葬列/タイトル.md",
+    "ゲーム/葬列/世界.md",
+    "ゲーム/葬列/汚染.md",
     "ゲーム/葬列/教会機関.md",
     "ゲーム/葬列/友好度.md",
-    "ゲーム/葬列/タイトル.md",
     "雑記/Ko-fi.md",
     "雑記/attach/Pasted image 20250106002445.png",
     "雑記/attach/Pasted image 20250106002231.png",
@@ -334,12 +338,8 @@
     "ゲーム/GODOT/attach/Pasted image 20250105065542.png",
     "ゲーム/GODOT/attach/Pasted image 20250105065504.png",
     "ゲーム/GODOT/attach/Pasted image 20250105065446.png",
-    "ゲーム/葬列/街.md",
-    "ゲーム/葬列/世界.md",
-    "ゲーム/葬列/戦闘システム.md",
     "ゲーム/葬列/チュートリアル.md",
     "ゲーム/葬列/神性存在.md",
-    "ゲーム/葬列/汚染.md",
     "ゲーム/葬列/ゲーム案.md",
     "ゲーム/葬列/解体.md",
     "ゲーム/葬列/職能.md",
