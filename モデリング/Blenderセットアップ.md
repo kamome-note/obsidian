@@ -1,4 +1,4 @@
-
+セットアップの手順メモ。
 ## ダウンロード
 
 https://www.blender.org/download/
