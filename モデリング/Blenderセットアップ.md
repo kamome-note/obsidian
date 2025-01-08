@@ -17,3 +17,8 @@ https://download.blender.org/release/
 ![[Pasted image 20250109025613.png]]
 起動できた。
 ![[Pasted image 20250109025935.png]]
+とりあえずおすすめの初期設定だけしておく。
+https://saru-blender.com/setting
+
+諸々設定。
+![[Pasted image 20250109032747.png]]
