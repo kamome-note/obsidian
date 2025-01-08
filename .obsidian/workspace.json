@@ -41,16 +41,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ゲーム/葬列/デザイン.md",
+                "file": "ゲーム/葬列/戦闘システム.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "デザイン"
+              "title": "戦闘システム"
+            }
+          },
+          {
+            "id": "b280ca92eb3babc1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ゲーム/葬列/ゲーム性.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ゲーム性"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -203,8 +217,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "776471d839eb7e68",
+  "active": "b280ca92eb3babc1",
   "lastOpenFiles": [
+    "ゲーム/葬列/デザイン.md",
+    "ゲーム/葬列/ゲーム性.md",
+    "ゲーム/葬列/戦闘システム.md",
+    "ゲーム/葬列/友好度.md",
+    "ゲーム/葬列/タイトル.md",
+    "ゲーム/葬列/ゲームエンジン.md",
+    "ゲーム/葬列/ゲーム案.md",
     "ゲーム/葬列/attach/Pasted image 20250109035311.png",
     "ゲーム/葬列/attach/Pasted image 20250109035247.png",
     "ゲーム/葬列/attach/Pasted image 20250109035231.png",
@@ -218,11 +239,9 @@
     "モデリング/attach/Pasted image 20250109025613.png",
     "モデリング/attach/Pasted image 20250109025001.png",
     "モデリング/attach/Pasted image 20250109024901.png",
-    "モデリング/attach/Pasted image 20250109024626.png",
     "モデリング/attach",
     "ゲーム/GODOT/GODOT環境構築.md",
     "ゲーム/技術雑記/ボードゲーム.md",
-    "ゲーム/葬列/デザイン.md",
     "ゲーム/技術雑記/Ko-fi.md",
     "モデリング",
     "ゲーム/葬列/聖体拝領.md",
@@ -234,11 +253,6 @@
     "ゲーム/葬列/解体.md",
     "ゲーム/葬列/汚染.md",
     "ゲーム/葬列/異形.md",
-    "ゲーム/葬列/戦闘システム.md",
-    "ゲーム/葬列/タイトル.md",
-    "ゲーム/葬列/友好度.md",
-    "ゲーム/葬列/ゲームエンジン.md",
-    "ゲーム/葬列/ゲーム案.md",
     "雑記/ファイル連携.md",
     "ゲーム/葬列/職能.md",
     "雑記/連携ミスからの復帰.md",
