@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ゲーム/葬列/ゲーム性.md",
+                "file": "ゲーム/葬列/デザイン.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ゲーム性"
+              "title": "デザイン"
             }
           }
         ]
@@ -161,6 +161,7 @@
   },
   "active": "7d7a1ae32d07e786",
   "lastOpenFiles": [
+    "ゲーム/葬列/ゲーム性.md",
     "ゲーム/葬列/チュートリアル.md",
     "モデリング/attach/Pasted image 20250109032908.png",
     "モデリング/attach/Pasted image 20250109032747.png",
@@ -172,7 +173,6 @@
     "モデリング/attach/Pasted image 20250109024626.png",
     "モデリング/Blender基礎.md",
     "モデリング/Blenderセットアップ.md",
-    "ゲーム/葬列/ゲーム性.md",
     "ゲーム/葬列/attach/Pasted image 20250109035311.png",
     "ゲーム/葬列/attach/Pasted image 20250109035247.png",
     "ゲーム/GODOT/GODOT環境構築.md",
