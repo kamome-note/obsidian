@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "雑記/モックアップ.md",
+                "file": "ゲーム/GODOT/GODOT参考.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "モックアップ"
+              "title": "GODOT参考"
             }
           }
         ],
@@ -176,11 +176,11 @@
   },
   "active": "d23c1a2b530fb60f",
   "lastOpenFiles": [
+    "雑記/モックアップ.md",
     "ゲーム/GODOT/GODOT参考.md",
     "/雑記/モックアップ.md",
     "/ゲーム/GODOT/GODOT参考.md",
     "雑記/連携ミスからの復帰.md",
-    "雑記/モックアップ.md",
     "ゲーム/葬列/デザイン.md",
     "ゲーム/葬列/ゲーム性.md",
     "ゲーム/葬列/チュートリアル.md",
