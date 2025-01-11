@@ -27,16 +27,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ゲーム/葬列/ダメージ計算式.md",
+                "file": "ゲーム/GODOT/GODOT参考.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ダメージ計算式"
+              "title": "GODOT参考"
+            }
+          },
+          {
+            "id": "e027f84789dc2423",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ゲーム/GODOT/GODOT見下し2Dゲームサンプル作成.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "GODOT見下し2Dゲームサンプル作成"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -189,23 +203,24 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9350ef72ca53283a",
+  "active": "e027f84789dc2423",
   "lastOpenFiles": [
+    "ゲーム/GODOT/attach/Pasted image 20250112014220.png",
+    "ゲーム/GODOT/attach/Pasted image 20250112014052.png",
+    "ゲーム/GODOT/attach/Pasted image 20250112013901.png",
+    "ゲーム/GODOT/attach/Pasted image 20250112013533.png",
+    "ゲーム/GODOT/attach/Pasted image 20250112013337.png",
+    "ゲーム/GODOT/attach/Pasted image 20250112012913.png",
+    "ゲーム/GODOT/attach/Pasted image 20250112012725.png",
+    "ゲーム/GODOT/attach/Pasted image 20250112012638.png",
+    "ゲーム/GODOT/attach/Pasted image 20250112012509.png",
+    "ゲーム/GODOT/GODOT参考.md",
+    "ゲーム/GODOT/GODOT見下し2Dゲームサンプル作成.md",
+    "ゲーム/GODOT/GODOT環境構築.md",
+    "ゲーム/葬列/ダメージ計算式.md",
     "ゲーム/葬列/attach/Pasted image 20250111054234.png",
     "ゲーム/葬列/attach/Pasted image 20250111043118.png",
-    "ゲーム/葬列/attach/Pasted image 20250111041022.png",
-    "ゲーム/葬列/attach/Pasted image 20250109035311.png",
-    "ゲーム/葬列/attach/Pasted image 20250111033746.png",
-    "ゲーム/葬列/ダメージ計算式.md",
-    "ゲーム/葬列/attach/Pasted image 20250111040134.png",
-    "ゲーム/葬列/attach/Pasted image 20250111035753.png",
-    "ゲーム/葬列/attach/Pasted image 20250111034834.png",
-    "ゲーム/葬列/attach/Pasted image 20250111034240.png",
-    "ゲーム/葬列/attach/Pasted image 20250111032231.png",
-    "ゲーム/葬列/attach/Pasted image 20250111033217.png",
     "雑記/モックアップ.md",
-    "ゲーム/GODOT/GODOT参考.md",
-    "ゲーム/GODOT/GODOT環境構築.md",
     "ゲーム/葬列/デザイン.md",
     "ゲーム/葬列/ゲーム性.md",
     "ゲーム/葬列/戦闘システム.md",
@@ -228,7 +243,6 @@
     "ゲーム/葬列/街.md",
     "ゲーム/葬列/解体.md",
     "ゲーム/葬列/汚染.md",
-    "ゲーム/葬列/異形.md",
     "雑記/attach",
     "ゲーム/葬列/無題のフォルダ",
     "ゲーム/技術雑記",
