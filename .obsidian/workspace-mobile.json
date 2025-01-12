@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ゲーム/葬列/職能.md",
+                "file": "ゲーム/葬列/戦闘.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "職能"
+              "title": "戦闘"
             }
           }
         ]
@@ -161,11 +161,12 @@
   },
   "active": "efe9c68fa46b0a29",
   "lastOpenFiles": [
-    "ゲーム/技術雑記/パーティー人数について.md",
     "ゲーム/葬列/職能.md",
+    "/ゲーム/葬列/戦闘.md",
+    "/ゲーム/技術雑記/パーティー人数について.md",
+    "ゲーム/技術雑記/パーティー人数について.md",
     "ゲーム/GODOT/GODOTポストプロセス.md",
     "/ゲーム/葬列/職能.md",
-    "/ゲーム/技術雑記/パーティー人数について.md",
     "/ゲーム/GODOT/GODOTポストプロセス.md",
     "ゲーム/葬列/戦闘.md",
     "ゲーム/GODOT/ポストプロセス.md",
@@ -196,7 +197,6 @@
     "ゲーム/葬列/デザイン.md",
     "モデリング/Blender基礎.md",
     "モデリング/Blenderセットアップ.md",
-    "ゲーム/GODOT/GODOT環境構築.md",
     "モデリング/attach",
     "/モデリング/attach",
     "モデリング",
