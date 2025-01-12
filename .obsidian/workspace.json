@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ゲーム/技術雑記/パーティー人数について.md",
+                "file": "ゲーム/技術雑記/ボードゲーム.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "パーティー人数について"
+              "title": "ボードゲーム"
             }
           }
         ],
@@ -219,8 +219,8 @@
   },
   "active": "f489ef62f1379abf",
   "lastOpenFiles": [
-    "ゲーム/技術雑記/物語の要素.md",
     "ゲーム/技術雑記/パーティー人数について.md",
+    "ゲーム/技術雑記/物語の要素.md",
     "ゲーム/葬列/職能.md",
     "ゲーム/GODOT/GODOTポストプロセス.md",
     "ゲーム/GODOT/GODOT見下し2Dゲームサンプル作成.md",
