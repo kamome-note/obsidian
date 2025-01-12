@@ -1,5 +1,5 @@
 
-GODOT Game engineでゲームを作ってみよう！
+## GODOT Game engineでゲームを作ってみよう！
 https://note.com/fieldwest/n/n362af4d24a1e
 
 ![[Pasted image 20250112012509.png]]
@@ -147,7 +147,7 @@ func start(pos):
 ![[Pasted image 20250113021251.png]]
 ![[Pasted image 20250113021403.png]]
 
-GODOT Game engineでゲームを作ってみよう！（その2）
+## GODOT Game engineでゲームを作ってみよう！（その2）
 https://note.com/fieldwest/n/n1db3f343fa3a
 
 ![[Pasted image 20250113025221.png]]
@@ -238,6 +238,24 @@ func _on_mob_timer_timeout():
 func _ready():
 	new_game()
 ```
+
+![[Pasted image 20250113033605.png]]
+![[Pasted image 20250113033644.png]]
+![[Pasted image 20250113033749.png]]
+![[Pasted image 20250113033838.png]]
+![[Pasted image 20250113033951.png]]
+![[Pasted image 20250113034040.png]]
+![[Pasted image 20250113034326.png]]
+![[Pasted image 20250113034356.png]]
+
+できた。
+![[Pasted image 20250113034446.png]]
+大筋は理解できたが、
+オブジェクトをもっと理解する必要がありそう。
+
+## GODOT Game engineでゲームを作ってみよう！（その3）
+https://note.com/fieldwest/n/ne7629e10093b
+
 
 
 
