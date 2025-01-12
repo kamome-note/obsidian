@@ -1,4 +1,5 @@
-
+Field Westさんの記事を参考にざっとサンプルゲームを作成。
+![[Pasted image 20250113034446.png]]
 ## GODOT Game engineでゲームを作ってみよう！
 https://note.com/fieldwest/n/n362af4d24a1e
 
@@ -256,6 +257,33 @@ func _ready():
 ## GODOT Game engineでゲームを作ってみよう！（その3）
 https://note.com/fieldwest/n/ne7629e10093b
 
+
+
+
+
+## GODOTで作成したアプリを配布しよう。～エクスポート方法（Windows実行アプリ）～
+https://note.com/fieldwest/n/nb2254f8d900e
+
+
+
+## GODOT Game engineでゲーム作成上の留意点など（雑記）
+https://note.com/fieldwest/n/n40832bf2dbf1
+
+Vulkanに対応していないGPUでないとエラーになるらしい。
+以下、対応方法。
+- 新規作成のとき：GODOTプロジェクトを作る際に、「レンダラー」を「互換性」にする
+- 既存PJのとき：メモ帳でproject.godotファイルを書き換える
+
+```ini
+config/features=PackedStringArray("4.0", "Mobile")
+↓↓↓
+config/features=PackedStringArray("4.2", "GL Compatibility")
+
+renderer/rendering_method="mobile"
+↓↓↓
+renderer/rendering_method="gl_compatibility"
+renderer/rendering_method.mobile="gl_compatibility"
+```
 
 
 
