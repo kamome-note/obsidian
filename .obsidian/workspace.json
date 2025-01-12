@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ゲーム/葬列/戦闘.md",
+                "file": "ゲーム/GODOT/GODOT見下し2Dゲームサンプル作成.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "戦闘"
+              "title": "GODOT見下し2Dゲームサンプル作成"
             }
           }
         ],
@@ -219,8 +219,11 @@
   },
   "active": "f489ef62f1379abf",
   "lastOpenFiles": [
-    "ゲーム/GODOT/GODOTポストプロセス.md",
+    "ゲーム/GODOT/attach/Pasted image 20250113021403.png",
+    "ゲーム/GODOT/attach/Pasted image 20250113021251.png",
+    "ゲーム/GODOT/attach/Pasted image 20250113020911.png",
     "ゲーム/葬列/戦闘.md",
+    "ゲーム/GODOT/GODOTポストプロセス.md",
     "ゲーム/葬列/戦闘システム.md",
     "ゲーム/葬列/ゲーム性.md",
     "ゲーム/技術雑記/パーティー人数について.md",
@@ -238,8 +241,6 @@
     "ゲーム/GODOT/attach/Pasted image 20250112014052.png",
     "ゲーム/GODOT/attach/Pasted image 20250112013901.png",
     "ゲーム/GODOT/attach/Pasted image 20250112013533.png",
-    "ゲーム/GODOT/attach/Pasted image 20250112013337.png",
-    "ゲーム/GODOT/attach/Pasted image 20250112012913.png",
     "ゲーム/GODOT/GODOT環境構築.md",
     "ゲーム/葬列/ダメージ計算式.md",
     "雑記/モックアップ.md",
@@ -256,7 +257,6 @@
     "ゲーム/葬列/聖体拝領.md",
     "ゲーム/葬列/神性存在.md",
     "ゲーム/葬列/模型.md",
-    "ゲーム/葬列/チュートリアル.md",
     "雑記/attach",
     "ゲーム/葬列/無題のフォルダ",
     "ゲーム/技術雑記",
