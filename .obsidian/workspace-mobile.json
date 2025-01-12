@@ -4,53 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "854f22ed25c323ae",
+        "id": "d6cbbb08850fdfc2",
         "type": "tabs",
         "children": [
           {
-            "id": "ae0cfec91ecfda53",
+            "id": "efe9c68fa46b0a29",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ゲーム/葬列/ゲーム性.md",
+                "file": "ゲーム/技術雑記/パーティー人数について.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ゲーム性"
-            }
-          },
-          {
-            "id": "9eb7eb9b6590d2d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ゲーム/GODOT/GODOT見下し2Dゲームサンプル作成.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "GODOT見下し2Dゲームサンプル作成"
-            }
-          },
-          {
-            "id": "00cd1551fae935f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ゲーム/葬列/職能.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "職能"
+              "title": "パーティー人数について"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -188,8 +159,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "00cd1551fae935f1",
+  "active": "efe9c68fa46b0a29",
   "lastOpenFiles": [
+    "ゲーム/葬列/職能.md",
     "ゲーム/技術雑記/パーティー人数について.md",
     "ゲーム/GODOT/GODOTポストプロセス.md",
     "/ゲーム/葬列/職能.md",
@@ -225,7 +197,6 @@
     "モデリング/Blender基礎.md",
     "モデリング/Blenderセットアップ.md",
     "ゲーム/GODOT/GODOT環境構築.md",
-    "/モデリング/Blender基礎.md",
     "モデリング/attach",
     "/モデリング/attach",
     "モデリング",
