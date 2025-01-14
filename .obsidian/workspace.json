@@ -125,12 +125,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ゲーム/アイヌマシズマ/概要.md",
+                "file": "ゲーム/GODOT/GODOT参考.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "概要"
+              "title": "GODOT参考"
             }
           }
         ],
@@ -289,11 +289,11 @@
   },
   "active": "ac65de9ccd69e62a",
   "lastOpenFiles": [
+    "ゲーム/よるのみち/概要.md",
+    "ゲーム/アイヌマシズマ/概要.md",
     "ゲーム/アイヌマシズマ/attach/Pasted image 20250113225539.png",
     "ゲーム/アイヌマシズマ/attach",
-    "ゲーム/よるのみち/概要.md",
     "ゲーム/技術雑記/思いつき.md",
-    "ゲーム/アイヌマシズマ/概要.md",
     "ゲーム/アイヌマシズマ",
     "ゲーム/かみさまのおはか/概要.md",
     "ゲーム/GODOT/GODOT見下し2Dゲームサンプル作成.md",
@@ -315,7 +315,6 @@
     "ゲーム/GODOT/attach/Pasted image 20250113033951.png",
     "ゲーム/GODOT/attach/Pasted image 20250113033838.png",
     "ゲーム/GODOT/attach/Pasted image 20250113033749.png",
-    "ゲーム/GODOT/attach/Pasted image 20250113033644.png",
     "ゲーム/葬列/戦闘.md",
     "ゲーム/GODOT/GODOTポストプロセス.md",
     "ゲーム/葬列/戦闘システム.md",
