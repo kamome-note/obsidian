@@ -8,189 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b280ca92eb3babc1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ゲーム/GODOT/GODOT環境構築.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "GODOT環境構築"
-            }
-          },
-          {
-            "id": "9350ef72ca53283a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ゲーム/GODOT/GODOT基礎知識.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "GODOT基礎知識"
-            }
-          },
-          {
-            "id": "e027f84789dc2423",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ゲーム/技術雑記/物語の要素.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "物語の要素"
-            }
-          },
-          {
-            "id": "f489ef62f1379abf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "雑記/モックアップ.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "モックアップ"
-            }
-          },
-          {
-            "id": "1052c0ec99781063",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ゲーム/よるのみち/概要.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "概要"
-            }
-          },
-          {
-            "id": "2d57b9f1390fdfd4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ゲーム/葬列/タイトル.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "タイトル"
-            }
-          },
-          {
-            "id": "3a04a188c8d95bbd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "雑記/モックアップ.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "モックアップ"
-            }
-          },
-          {
-            "id": "05d222b12db3130c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ゲーム/よるのみち/概要.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "概要"
-            }
-          },
-          {
-            "id": "ac65de9ccd69e62a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ゲーム/GODOT/GODOT見下し2Dゲームサンプル作成.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "GODOT見下し2Dゲームサンプル作成"
-            }
-          },
-          {
-            "id": "6283e048b2384815",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ゲーム/GODOT/GODOT基礎知識.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "GODOT基礎知識"
-            }
-          },
-          {
-            "id": "a6d33b0624f0d997",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ゲーム/GODOT/GODOT見下し2Dゲームサンプル作成.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "GODOT見下し2Dゲームサンプル作成"
-            }
-          },
-          {
-            "id": "9577993d05ffdc7b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "雑記/モックアップ.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "モックアップ"
-            }
-          },
-          {
-            "id": "f5bc5e3fba5c3b76",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "雑記/3D都市データ PLATEAU.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "3D都市データ PLATEAU"
-            }
-          },
-          {
-            "id": "3b785acf16402cfa",
+            "id": "bdc9e4550dc58424",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -202,23 +20,8 @@
               "icon": "lucide-file",
               "title": "よるのまにまに 概要"
             }
-          },
-          {
-            "id": "bdc9e4550dc58424",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ゲーム/ゆめ次元/ゆめ次元 概要.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ゆめ次元 概要"
-            }
           }
-        ],
-        "currentTab": 14
+        ]
       }
     ],
     "direction": "vertical"
@@ -373,9 +176,9 @@
   },
   "active": "bdc9e4550dc58424",
   "lastOpenFiles": [
-    "ゲーム/アイヌマシズマ/アイヌマシズマ 概要.md",
-    "ゲーム/かみさまのおはか/かみさまのおはか 概要.md",
     "ゲーム/ゆめ次元/ゆめ次元 概要.md",
+    "ゲーム/かみさまのおはか/かみさまのおはか 概要.md",
+    "ゲーム/アイヌマシズマ/アイヌマシズマ 概要.md",
     "ゲーム/よるのみち/よるのまにまに 概要.md",
     "ゲーム/ゆめ次元/attach/Pasted image 20250117032705.png",
     "ゲーム/ゆめ次元/attach",
