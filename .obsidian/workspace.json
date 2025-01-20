@@ -11,13 +11,32 @@
             "id": "ea9104a3002e5602",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "ゲーム/ゲーム検討/ゲームジャンル色々.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新規タブ"
+              "title": "ゲームジャンル色々"
+            }
+          },
+          {
+            "id": "cde2747e97d4dfa5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ゲーム/葬列/ダメージ計算式.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ダメージ計算式"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,12 +189,25 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5203db03be87ea1d",
+  "active": "cde2747e97d4dfa5",
   "lastOpenFiles": [
-    "ゲーム/ゆめ次元/ゆめ次元 概要.md",
-    "ゲーム/かみさまのおはか/かみさまのおはか 概要.md",
+    "ゲーム/葬列/チュートリアル.md",
+    "ゲーム/葬列/ゲーム性.md",
+    "ゲーム/葬列/模型.md",
+    "ゲーム/葬列/職能.md",
+    "ゲーム/葬列/神性存在.md",
+    "ゲーム/葬列/戦闘.md",
+    "ゲーム/葬列/バックパック.md",
+    "ゲーム/葬列/世界の余命.md",
+    "ゲーム/葬列/タイトル.md",
+    "ゲーム/葬列/戦闘システム.md",
     "ゲーム/アイヌマシズマ/アイヌマシズマ 概要.md",
-    "ゲーム/よるのみち/よるのまにまに 概要.md",
+    "ゲーム/かみさまのおはか/かみさまのおはか 概要.md",
+    "ゲーム/よるのまにまに/よるのまにまに 概要.md",
+    "ゲーム/ゆめ次元/ゆめ次元 概要.md",
+    "ゲーム/ゲーム検討/ゲームジャンル色々.md",
+    "ゲーム/ゲーム検討/高評価ゲーム.md",
+    "ゲーム/ゲーム検討",
     "ゲーム/ゆめ次元/attach/Pasted image 20250117032705.png",
     "ゲーム/ゆめ次元/attach",
     "ゲーム/かみさまのおはか/attach/Pasted image 20250117031356.png",
@@ -184,7 +216,7 @@
     "ゲーム/かみさまのおはか/attach/Pasted image 20250117031310.png",
     "ゲーム/かみさまのおはか/attach/Pasted image 20250117031247.png",
     "ゲーム/かみさまのおはか/attach",
-    "ゲーム/よるのみち/Googleストリートビュー.md",
+    "ゲーム/よるのまにまに/Googleストリートビュー.md",
     "雑記/3D都市データ PLATEAU.md",
     "ゲーム/GODOT/GODOT逆引き.md",
     "雑記/モックアップ.md",
@@ -198,24 +230,12 @@
     "ゲーム/GODOT/attach/Pasted image 20250114215156.png",
     "ゲーム/GODOT/attach/Pasted image 20250114214022.png",
     "ゲーム/GODOT/attach/Pasted image 20250114213507.png",
-    "ゲーム/GODOT/GODOTポストプロセス.md",
     "ゲーム/アイヌマシズマ/attach",
-    "ゲーム/技術雑記/思いつき.md",
     "ゲーム/アイヌマシズマ",
-    "ゲーム/葬列/タイトル.md",
-    "ゲーム/葬列/世界の余命.md",
-    "ゲーム/葬列/神性存在.md",
-    "ゲーム/よるのみち/attach/Pasted image 20250113194507.png",
-    "ゲーム/よるのみち/attach",
+    "ゲーム/よるのまにまに/attach/Pasted image 20250113194507.png",
+    "ゲーム/よるのまにまに/attach",
     "ゲーム/かみさまのおはか",
-    "ゲーム/よるのみち",
-    "ゲーム/葬列/バックパック.md",
-    "ゲーム/葬列/戦闘.md",
-    "ゲーム/葬列/戦闘システム.md",
-    "ゲーム/葬列/ゲーム性.md",
-    "ゲーム/技術雑記/パーティー人数について.md",
-    "ゲーム/技術雑記/物語の要素.md",
-    "モデリング/attach",
-    "モデリング"
+    "ゲーム/よるのまにまに",
+    "モデリング/attach"
   ]
 }
