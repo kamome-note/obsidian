@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "モデリング/3Dモデリング.md",
+                "file": "モデリング/モデリング方法.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3Dモデリング"
+              "title": "モデリング方法"
             }
           },
           {
@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "モデリング/モデリング.md",
+                "file": "モデリング/習作.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "モデリング"
+              "title": "習作"
             }
           }
         ],
@@ -165,10 +165,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "モデリング/モデリング.md"
+                "file": "モデリング/習作.md"
               },
               "icon": "lucide-list",
-              "title": "モデリングのアウトライン"
+              "title": "習作のアウトライン"
             }
           }
         ]
@@ -254,9 +254,9 @@
   },
   "active": "6524fc53ec2a2865",
   "lastOpenFiles": [
+    "モデリング/モデリング方法.md",
+    "モデリング/習作.md",
     "モデリング/attach/Pasted image 20250123005930.png",
-    "モデリング/3Dモデリング.md",
-    "モデリング/モデリング.md",
     "モデリング/Blenderショートカット.md",
     "モデリング/Blender基礎.md",
     "モデリング/Blenderセットアップ.md",
@@ -293,7 +293,6 @@
     "ゲーム/かみさまのおはか/attach",
     "ゲーム/アイヌマシズマ/attach/Pasted image 20250113225539.png",
     "ゲーム/GODOT/attach/Pasted image 20250114215156.png",
-    "ゲーム/GODOT/attach/Pasted image 20250114214022.png",
     "ゲーム/アイヌマシズマ/attach",
     "ゲーム/アイヌマシズマ",
     "ゲーム/よるのまにまに/attach",
