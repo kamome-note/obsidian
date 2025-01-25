@@ -1,8 +1,5 @@
-
 クラスリファレンス
 https://docs.godotengine.org/ja/4.x/classes/index.html
-
-# All classes
 
 # Globals
 
