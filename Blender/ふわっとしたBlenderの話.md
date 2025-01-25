@@ -1,3 +1,4 @@
+『両手いっぱいに芋の花を』制作者の記事。
 
 ふわっとしたBlenderの話 (1)
 https://note.com/nwsnkn/n/ne6f946658bb7
