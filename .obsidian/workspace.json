@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ゲーム/ゲーム雑記/ローグライク自作.md",
+                "file": "ゲーム/ローグライク試作/ローグライク自作.md",
                 "mode": "source",
                 "source": false
               },
@@ -125,7 +125,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ゲーム/ゲーム雑記/ローグライク自作.md",
+                "file": "ゲーム/ローグライク試作/ローグライク自作.md",
                 "mode": "source",
                 "source": false
               },
@@ -207,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ゲーム/ゲーム雑記/ローグライク自作.md"
+                "file": "ゲーム/ローグライク試作/ローグライク自作.md"
               },
               "icon": "lucide-list",
               "title": "ローグライク自作のアウトライン"
@@ -296,8 +296,20 @@
   },
   "active": "368c9f0a4bc82776",
   "lastOpenFiles": [
-    "ゲーム/ゲーム雑記/2025年のビデオゲームの現状.md",
+    "ゲーム/ローグライク試作/attach/Pasted image 20250124011157.png",
+    "ゲーム/ローグライク試作/attach/歩く素体.png",
+    "ゲーム/ローグライク試作/attach/スカート.gif",
+    "ゲーム/ローグライク試作/attach/Pasted image 20250124004719.png",
+    "ゲーム/ローグライク試作/ローグライク自作.md",
+    "ゲーム/ローグライク試作/attach/Pasted image 20250126021121.png",
+    "ゲーム/ローグライク試作/attach",
+    "ゲーム/ゲーム雑記/attach/Pasted image 20250125152154.png",
+    "ゲーム/ゲーム雑記/attach/Pasted image 20250123221714.png",
+    "ゲーム/ゲーム雑記/attach/Pasted image 20250123221638.png",
+    "ゲーム/ゲーム雑記/無題のファイル.md",
+    "ゲーム/ローグライク試作",
     "ゲーム/ゲーム雑記/ゲームバランス.md",
+    "ゲーム/ゲーム雑記/2025年のビデオゲームの現状.md",
     "ゲーム/GODOT/3Dダンジョンのテンプレートアセット.md",
     "ゲーム/GODOT/GODOTリファレンス.md",
     "ゲーム/GODOT/モデル自動構築.md",
@@ -310,17 +322,8 @@
     "Blender/ふわっとしたBlenderの話.md",
     "ゲーム/GODOT/attach/Pasted image 20250126012209.png",
     "ゲーム/GODOT/attach/Pasted image 20250126012125.png",
-    "Blender/attach/Pasted image 20250126004207.png",
-    "Blender/attach/Pasted image 20250126004118.png",
-    "Blender/attach/Pasted image 20250126004037.png",
-    "Blender/attach/Pasted image 20250126004020.png",
-    "Blender/attach/Pasted image 20250126003941.png",
-    "Blender/attach/Pasted image 20250126003816.png",
-    "Blender/attach/Pasted image 20250126003727.png",
-    "Blender/attach/Pasted image 20250126003713.png",
     "Blender/Blender基礎.md",
     "Blender/Blenderショートカット.md",
-    "ゲーム/ゲーム雑記/ローグライク自作.md",
     "ゲーム/ゲーム雑記/高評価ゲーム.md",
     "無題のファイル.canvas",
     "2025-01-25.md",
@@ -331,8 +334,6 @@
     "ゲーム/ゲーム雑記/Tiled Map Editor.md",
     "ゲーム/ゲーム雑記/ゲームジャンル色々.md",
     "ゲーム/よるのまにまに/検討中メモ.md",
-    "ゲーム/よるのまにまに/よるのまにまに 概要.md",
-    "root.md",
     "ゲーム/ゲーム検討",
     "ゲーム/ゆめ次元/attach",
     "ゲーム/ゆめ次元",
@@ -340,8 +341,6 @@
     "ゲーム/アイヌマシズマ/attach",
     "ゲーム/アイヌマシズマ",
     "ゲーム/よるのまにまに/attach",
-    "ゲーム/かみさまのおはか",
-    "ゲーム/よるのまにまに",
-    "Blender/attach"
+    "ゲーム/かみさまのおはか"
   ]
 }
