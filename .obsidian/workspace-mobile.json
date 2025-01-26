@@ -35,8 +35,7 @@
               "title": "3Dダンジョンのテンプレートアセット"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -174,8 +173,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "26f7b829b244d4e5",
+  "active": "8ae647dc398770d7",
   "lastOpenFiles": [
+    "ゲーム/GODOT/3Dダンジョンのテンプレートアセット.md",
     "ゲーム/モブコントロール/モブコントロール.md",
     "ゲーム/モブコントロール/attach/Pasted image 20250127001839.png",
     "ゲーム/モブコントロール/attach/Pasted image 20250126211727.png",
@@ -216,7 +216,6 @@
     "/ゲーム/ローグライク",
     "/ゲーム/モブコントロール/attach",
     "/ゲーム/モブコントロール",
-    "ゲーム/GODOT/3Dダンジョンのテンプレートアセット.md",
     "ゲーム/ローグライク試作/attach/3Dダンジョンのテンプレートアセット.md",
     "ゲーム/GODOT/GODOTリファレンス.md",
     "ゲーム/ローグライク試作/attach",
