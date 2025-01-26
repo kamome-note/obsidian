@@ -7,6 +7,26 @@ Godot Engineでつまづいたところ集 2
 https://note.com/nwsnkn/n/nf56a2ee381ef
 Godot Engineでつまづいたところ集 3
 https://note.com/nwsnkn/n/n3fc346ddf25f
+＋
+GODOT Japan フォーラム
+https://forum.godot-japan.com/t/topic/56
+
+---
+
+## JSONからDictionaryを取得する方法
+Godot 4.xからは`FileAccess`でファイルにアクセスするようになった。  
+`JSON`クラスの`parse`関数でパースすることで、Dictionary型の`data`として扱う事ができる。
+
+単純にJSONをDictionaryで返すだけの関数
+```python
+func read_json(path:String) -> Dictionary:
+	var json:JSON = JSON.new()
+	var file :FileAccess = FileAccess.open(path, FileAccess.READ)
+	var error :int = json.parse(file.get_as_text())
+	if error != OK:
+		return {}
+	return json.data
+```
 
 ---
 

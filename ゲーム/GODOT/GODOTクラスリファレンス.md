@@ -1,6 +1,8 @@
 クラスリファレンス
 https://docs.godotengine.org/ja/4.x/classes/index.html
 
+---
+
 # Globals
 
 - [@GDScript](https://docs.godotengine.org/ja/4.x/classes/class_%40gdscript.html)
