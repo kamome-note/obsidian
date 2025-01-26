@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ゲーム/GODOT/3Dダンジョンのテンプレートアセット.md",
+                "file": "ゲーム/ローグライク試作/ローグライク試作.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3Dダンジョンのテンプレートアセット"
+              "title": "ローグライク試作"
             }
           }
         ]
@@ -161,6 +161,8 @@
   },
   "active": "8ae647dc398770d7",
   "lastOpenFiles": [
+    "ゲーム/GODOT/3Dダンジョンのテンプレートアセット.md",
+    "ゲーム/ローグライク試作/ローグライク試作.md",
     "ゲーム/ローグライク試作/attach/歩く素体.png",
     "ゲーム/ローグライク試作/attach/スカート.gif",
     "ゲーム/ローグライク試作/attach/Pasted image 20250124011157.png",
@@ -171,7 +173,6 @@
     "/ゲーム/ローグライク試作/attach/Pasted image 20250124004719.png",
     "ゲーム/ローグライク試作/attach/3Dダンジョンのテンプレートアセット.md",
     "ゲーム/GODOT/GODOTリファレンス.md",
-    "ゲーム/ローグライク試作/ローグライク試作.md",
     "ゲーム/GODOT/移動・回転.md",
     "ゲーム/GODOT/モデル自動構築.md",
     "ゲーム/GODOT/attach/Pasted image 20250126012209.png",
@@ -183,7 +184,6 @@
     "/ゲーム/ローグライク試作/ローグライク試作.md",
     "/ゲーム/GODOT/移動・回転.md",
     "/ゲーム/GODOT/モデル自動構築.md",
-    "/ゲーム/GODOT/attach/Pasted image 20250126012209.png",
     "/ゲーム/GODOT/GDScriptのふわっとした話.md",
     "/Blender/ふわっとしたBlenderの話.md",
     "ゲーム/ローグライク試作/attach",
@@ -193,7 +193,6 @@
     "ゲーム/GODOT/GODOTシングルトン.md",
     "ゲーム/よるのまにまに/検討中メモ.md",
     "ゲーム/GODOT/GODOTつまづいたところ集.md",
-    "ゲーム/GODOT/3Dダンジョンのテンプレートアセット.md",
     "Blender/ふわっとしたBlenderの話.md",
     "/ゲーム/GODOT/GODOTシングルトン.md",
     "/ゲーム/GODOT/GODOTつまづいたところ集.md",
