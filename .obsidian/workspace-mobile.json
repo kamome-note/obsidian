@@ -49,7 +49,8 @@
               "title": "アイヌマシズマ"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -187,10 +188,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8ae647dc398770d7",
+  "active": "2c419c28d93a3085",
   "lastOpenFiles": [
-    "ゲーム/GODOT/Python命名規則一覧.md",
+    "ゲーム/かみさまのおはか/かみさまのおはか.md",
     "ゲーム/モブコントロール/モブコントロール.md",
+    "ゲーム/GODOT/Python命名規則一覧.md",
     "ゲーム/よるのまにまに/検討中メモ.md",
     "Blender/3D都市データ PLATEAU.md",
     "ゲーム/モブコントロール/モブコントロール2.md",
@@ -220,7 +222,6 @@
     "/Obsidian",
     "/AI",
     "ゲーム/アイヌマシズマ/アイヌマシズマ.md",
-    "ゲーム/かみさまのおはか/かみさまのおはか.md",
     "ゲーム/GODOT/3Dダンジョンのテンプレートアセット.md",
     "ゲーム/よるのまにまに/よるのまにまに.md",
     "ゲーム/ゲーム雑記/高評価ゲーム.md",
