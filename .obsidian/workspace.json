@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ゲーム/モブコントロール/モブコントロール2.md",
+                "file": "雑記/2025-02-01　GODOTを勉強しているが.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "モブコントロール2"
+              "title": "2025-02-01　GODOTを勉強しているが"
             }
           }
         ],
@@ -123,10 +123,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ゲーム/モブコントロール/モブコントロール2.md"
+                "file": "雑記/2025-02-01　GODOTを勉強しているが.md"
               },
               "icon": "lucide-list",
-              "title": "モブコントロール2のアウトライン"
+              "title": "2025-02-01　GODOTを勉強しているがのアウトライン"
             }
           }
         ]
@@ -212,12 +212,15 @@
   },
   "active": "4aa7fc39eb914e71",
   "lastOpenFiles": [
+    "雑記/2025-02-02.md",
+    "雑記/2025-02-01　GODOTを勉強しているが.md",
+    "ゲーム/モブコントロール/モブコントロール2.md",
+    "雑記",
     "ゲーム/モブコントロール/attach/Pasted image 20250202003602.png",
     "ゲーム/モブコントロール/attach/Pasted image 20250201235215.png",
     "ゲーム/よるのまにまに/検討中メモ.md",
     "ゲーム/よるのまにまに/Googleストリートビュー.md",
     "ゲーム/よるのまにまに/よるのまにまに.md",
-    "ゲーム/モブコントロール/モブコントロール2.md",
     "ゲーム/モブコントロール/モブコントロール.md",
     "ゲーム/モブコントロール/attach/Pasted image 20250131004019.png",
     "ゲーム/モブコントロール/attach/Pasted image 20250131003603.png",
@@ -227,7 +230,6 @@
     "ゲーム/モブコントロール/attach/Pasted image 20250131002803.png",
     "ゲーム/モブコントロール/attach/Pasted image 20250131002408.png",
     "ゲーム/モブコントロール/attach/Pasted image 20250131002252.png",
-    "ゲーム/モブコントロール/attach/Pasted image 20250131002137.png",
     "ゲーム/ゆめ次元/ゆめ次元.md",
     "Obsidian/Obsidianファイル連携.md",
     "Obsidian/Obsidian連携ミスからの復帰.md",
@@ -251,13 +253,11 @@
     "ゲーム/GODOT/GODOTクラスリファレンス.md",
     "ゲーム/GODOT/GODOTつまづいたところ集.md",
     "ゲーム/GODOT/プラグイン.md",
-    "ゲーム/GODOT/移動・回転.md",
     "ゲーム/ローグライク/attach",
     "ゲーム/ローグライク",
     "無題のファイル.canvas",
     "ゲーム/ゲーム検討",
     "ゲーム/ゆめ次元/attach",
-    "ゲーム/ゆめ次元",
-    "ゲーム/かみさまのおはか/attach"
+    "ゲーム/ゆめ次元"
   ]
 }
