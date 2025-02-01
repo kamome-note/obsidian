@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "不定期日記/2025-02-02.md",
+                "file": "ゲーム/かみさまのおはか/かみさまのおはか.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-02-02"
+              "title": "かみさまのおはか"
             }
           }
         ]
@@ -94,10 +94,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "不定期日記/2025-02-02.md"
+                "file": "ゲーム/かみさまのおはか/かみさまのおはか.md"
               },
               "icon": "lucide-list",
-              "title": "2025-02-02のアウトライン"
+              "title": "かみさまのおはかのアウトライン"
             }
           }
         ]
@@ -183,11 +183,13 @@
   },
   "active": "89a5fdbfb5b5afa4",
   "lastOpenFiles": [
-    "不定期日記/2025-02-01.md",
     "ゲーム/よるのまにまに/よるのまにまに.md",
+    "ゲーム/ゆめ次元/ゆめ次元.md",
+    "ゲーム/ローグライク/ローグライク.md",
+    "不定期日記/2025-02-02.md",
+    "不定期日記/2025-02-01.md",
     "ゲーム/よるのまにまに/attach/Pasted image 20250202031936.png",
     "ゲーム/よるのまにまに/attach/Pasted image 20250202031841.png",
-    "不定期日記/2025-02-02.md",
     "不定期日記/2025-02-02　やりたいことが多い.md",
     "ゲーム/GODOT/GODOTシングルトン.md",
     "ゲーム/GODOT/GODOTつまづいたところ集.md",
@@ -211,7 +213,6 @@
     "ゲーム/モブコントロール/attach/Pasted image 20250131003302.png",
     "ゲーム/モブコントロール/attach/Pasted image 20250131002839.png",
     "ゲーム/モブコントロール/attach/Pasted image 20250131002803.png",
-    "ゲーム/ゆめ次元/ゆめ次元.md",
     "Obsidian/Obsidianファイル連携.md",
     "Obsidian/Obsidian連携ミスからの復帰.md",
     "Blender/モデリング方法.md",
@@ -220,7 +221,6 @@
     "AI",
     "Obsidian",
     "雑記/モックアップ.md",
-    "ゲーム/ローグライク/ローグライク.md",
     "ゲーム/アイヌマシズマ/アイヌマシズマ.md",
     "ゲーム/モブコントロール/attach",
     "ゲーム/モブコントロール",
