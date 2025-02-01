@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ゲーム/GODOT/GODOTシングルトン.md",
+                "file": "不定期日記/2025-02-02.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GODOTシングルトン"
+              "title": "2025-02-02"
             }
           }
         ],
@@ -137,10 +137,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ゲーム/GODOT/GODOTシングルトン.md"
+                "file": "不定期日記/2025-02-02.md"
               },
               "icon": "lucide-list",
-              "title": "GODOTシングルトンのアウトライン"
+              "title": "2025-02-02のアウトライン"
             }
           }
         ]
@@ -226,14 +226,16 @@
   },
   "active": "89a5fdbfb5b5afa4",
   "lastOpenFiles": [
+    "不定期日記/2025-02-01.md",
+    "不定期日記/2025-02-02.md",
+    "不定期日記/2025-02-02　やりたいことが多い.md",
+    "ゲーム/GODOT/GODOTシングルトン.md",
     "ゲーム/GODOT/GODOTつまづいたところ集.md",
     "ゲーム/GODOT/GODOTクラスリファレンス.md",
     "ゲーム/GODOT/GDScriptリファレンス.md",
     "ゲーム/GODOT/Python命名規則一覧.md",
     "ゲーム/GODOT/3Dダンジョンのテンプレートアセット.md",
     "ゲーム/GODOT/GODOTマイこだわり集.md",
-    "不定期日記/2025-02-02　作りたくもないもの作っていても.md",
-    "不定期日記/2025-02-01　GODOTを勉強しているが.md",
     "雑記/人肉食.md",
     "ゲーム/モブコントロール/モブコントロール2.md",
     "雑記",
@@ -265,8 +267,6 @@
     "ゲーム/アイヌマシズマ/アイヌマシズマ.md",
     "ゲーム/かみさまのおはか/かみさまのおはか.md",
     "ゲーム/モブコントロール/attach",
-    "Blender/ふわっとしたBlenderの話.md",
-    "ゲーム/ゲーム雑記/2025年のビデオゲームの現状.md",
     "ゲーム/モブコントロール",
     "ゲーム/ローグライク/attach",
     "ゲーム/ローグライク",
