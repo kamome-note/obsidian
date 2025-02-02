@@ -25,14 +25,12 @@
             "id": "7e0ef4d743d2240d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "audio",
               "state": {
-                "file": "Obsidian/gitignoreの設定.md",
-                "mode": "source",
-                "source": false
+                "file": "作曲/モルにゃん/ignore/真夜中のモルにゃん音頭.m4a"
               },
-              "icon": "lucide-file",
-              "title": "gitignoreの設定"
+              "icon": "lucide-file-audio",
+              "title": "真夜中のモルにゃん音頭"
             }
           }
         ],
@@ -110,13 +108,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian/gitignoreの設定.md",
+                "file": "作曲/モルにゃん/ignore/真夜中のモルにゃん音頭.m4a",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "gitignoreの設定のアウトライン"
+              "title": "真夜中のモルにゃん音頭のアウトライン"
             }
           }
         ]
@@ -202,8 +200,10 @@
   },
   "active": "7e0ef4d743d2240d",
   "lastOpenFiles": [
-    "Obsidian/Obsidian連携ミスからの復帰.md",
+    "作曲/作曲雑記/ignore/test.md",
+    "作曲/モルにゃん/ignore/test.md",
     "Obsidian/gitignoreの設定.md",
+    "Obsidian/Obsidian連携ミスからの復帰.md",
     "作曲/作曲雑記/Riffusion.md",
     "作曲/作曲雑記/ignore/郷里の空よ山よ、ドブ沼よ.m4a",
     "作曲/作曲雑記/ignore/郷里の空よ山よ、ドブ沼よinst.m4a",
@@ -246,7 +246,6 @@
     "ゲーム/GODOT/GDScriptリファレンス.md",
     "ゲーム/GODOT/Python命名規則一覧.md",
     "ゲーム/GODOT/3Dダンジョンのテンプレートアセット.md",
-    "ゲーム/GODOT/GODOTマイこだわり集.md",
     "無題のファイル.canvas"
   ]
 }
