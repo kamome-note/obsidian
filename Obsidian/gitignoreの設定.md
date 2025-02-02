@@ -10,7 +10,7 @@ gitignoreを定義することで更新を制御するように。
 
 ### ２）gitignoreを定義してignoreフォルダ以下を無視する設定にする
 
-![[Pasted image 20250202223915.png]]
+![[Pasted image 20250203003727.png]]
 
 ![[Pasted image 20250202223950.png]]
 
