@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "作曲/作曲雑記/Riffusion.md",
+                "file": "Obsidian/gitignoreの設定.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Riffusion"
+              "title": "gitignoreの設定"
             }
           }
         ],
@@ -110,13 +110,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "作曲/作曲雑記/Riffusion.md",
+                "file": "Obsidian/gitignoreの設定.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Riffusionのアウトライン"
+              "title": "gitignoreの設定のアウトライン"
             }
           }
         ]
@@ -202,6 +202,7 @@
   },
   "active": "7e0ef4d743d2240d",
   "lastOpenFiles": [
+    "作曲/作曲雑記/Riffusion.md",
     "Obsidian/gitignoreの設定.md",
     "作曲/作曲雑記/ignore/郷里の空よ山よ、ドブ沼よ.m4a",
     "作曲/作曲雑記/ignore/郷里の空よ山よ、ドブ沼よinst.m4a",
@@ -216,7 +217,6 @@
     "Obsidian/attach/Pasted image 20250202223915.png",
     "Obsidian/attach/Pasted image 20250202223950.png",
     "Obsidian/Obsidian連携ミスからの復帰.md",
-    "作曲/作曲雑記/Riffusion.md",
     "作曲/モルにゃん/ignore/真夜中のモルにゃん音頭.m4a",
     "作曲/モルにゃん/ignore/真夜中のモルにゃん音頭inst.m4a",
     "作曲/作曲雑記/ignore",
