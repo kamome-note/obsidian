@@ -38,3 +38,5 @@ ignore/
 
 Obsidian 結局行き着いた .gitignore
 https://note.com/sho7650/n/nbbc6976103ff
+
+上手くいかないな。
