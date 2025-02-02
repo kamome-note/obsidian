@@ -11,12 +11,14 @@
             "id": "77c017dd2696c6a4",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "作曲/モルにゃん/attach/Pasted image 20250202124442.png"
+                "file": "作曲/モルにゃん/真夜中のモルにゃん音頭.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250202124442"
+              "icon": "lucide-file",
+              "title": "真夜中のモルにゃん音頭"
             }
           }
         ]
@@ -93,13 +95,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "作曲/モルにゃん/attach/Pasted image 20250202124442.png",
+                "file": "作曲/モルにゃん/真夜中のモルにゃん音頭.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Pasted image 20250202124442のアウトライン"
+              "title": "真夜中のモルにゃん音頭のアウトライン"
             }
           }
         ]
@@ -185,6 +187,7 @@
   },
   "active": "77c017dd2696c6a4",
   "lastOpenFiles": [
+    "作曲/モルにゃん/attach/Pasted image 20250202124442.png",
     "作曲/モルにゃん/attach/真夜中のモルにゃん音頭.m4a",
     "不定期日記/20250201.md",
     "不定期日記/20250202.md",
@@ -199,7 +202,6 @@
     "作曲/作曲雑記/attach/郷里の空よ山よ、ドブ沼よ.m4a",
     "作曲/モルにゃん/attach/真夜中のモルにゃん音頭inst.m4a",
     "作曲/作曲雑記/attach/Pasted image 20250202131133.png",
-    "作曲/モルにゃん/attach/Pasted image 20250202124442.png",
     "作曲/モルにゃん/attach",
     "作曲/モルにゃん",
     "Riffusion/無題のファイル.md",
