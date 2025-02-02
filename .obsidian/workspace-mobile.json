@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "作曲/作曲雑記/Riffusion.md",
+                "file": "Obsidian/gitignoreの設定.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Riffusion"
+              "title": "gitignoreの設定"
             }
           }
         ]
@@ -164,6 +164,9 @@
   "lastOpenFiles": [
     "作曲/モルにゃん/ignore/真夜中のモルにゃん音頭inst.m4a",
     "作曲/作曲雑記/Riffusion.md",
+    "Obsidian/gitignoreの設定.md",
+    "/Obsidian/gitignoreの設定.md",
+    "/Obsidian",
     "作曲/モルにゃん/ignore/真夜中のモルにゃん音頭.m4a",
     "/作曲/モルにゃん/ignore/真夜中のモルにゃん音頭inst.m4a",
     "/作曲/モルにゃん/ignore/真夜中のモルにゃん音頭.m4a",
@@ -172,7 +175,6 @@
     "/作曲/モルにゃん",
     "/作曲/作曲雑記/attach",
     "/作曲/作曲雑記",
-    "/作曲",
     "作曲/モルにゃん/真夜中のモルにゃん音頭.md",
     "作曲/作曲雑記/attach/Pasted image 20250202111755.png",
     "ゲーム/よるのまにまに/よるのまにまに.md",
@@ -204,8 +206,6 @@
     "ゲーム/モブコントロール/モブコントロール.md",
     "ゲーム/GODOT/Python命名規則一覧.md",
     "ゲーム/よるのまにまに/検討中メモ.md",
-    "Blender/3D都市データ PLATEAU.md",
-    "ゲーム/モブコントロール/モブコントロール2.md",
-    "Obsidian/Obsidian連携ミスからの復帰.md"
+    "Blender/3D都市データ PLATEAU.md"
   ]
 }
