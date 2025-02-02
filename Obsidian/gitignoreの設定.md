@@ -4,14 +4,15 @@
 
 gitignoreを定義することで更新を制御するように。
 
-## １）mp3などファイルサイズが大きいものはignoreフォルダに格納することにする
+## 設定手順
+### １）mp3などファイルサイズが大きいものはignoreフォルダに格納することにする
 
 ディレクトリのどこだとしても`ignoreフォルダ`以下のファイルは全て対象外に。
 `ignoreフォルダ`を複数定義すれば、それぞれが無視されるイメージ。
 
 ![[Pasted image 20250202223831.png]]
 
-## ２）gitignoreを定義してignoreフォルダ以下を無視する設定にする
+### ２）gitignoreを定義してignoreフォルダ以下を無視する設定にする
 
 `kamome-note/obsidian/.gitignore`に配置すること。
 （誤って最初`kamome-note/.gitignore`に配置していた）
@@ -19,7 +20,19 @@ gitignoreを定義することで更新を制御するように。
 ![[Pasted image 20250203003727.png]]
 
 ![[Pasted image 20250202223950.png]]
-### .gitignoreの定義
+
+### ３）gitignoreをaddして有効化する
+
+最初、これを実施していなかったせいで上手くいかなかった。
+
+![[Pasted image 20250203010154.png]]
+- 有効化
+	`git add .gitignore`
+- 有効化を無効化
+	`git rm --cached -r .gitignore`
+
+## .gitignoreの定義
+
 ```python
 # to exclude Obsidian's settings (including plugin and hotkey configurations)
 # .obsidian/
@@ -40,15 +53,10 @@ ignore/
 .DS_Store
 ```
 
-## ３）gitignoreをaddして有効化する
+## 運用
 
-最初、これを実施していなかったせいで上手くいかなかった。
-
-![[Pasted image 20250203010154.png]]
-- 有効化
-	`git add .gitignore`
-- 有効化を無効化
-	`git rm --cached -r .gitignore`
+macとAndroidそれぞれ個別に手動でignoreフォルダを作成し、
+その下に連携されたくないファイルを手動で配置する。
 
 ## 参考サイト
 
