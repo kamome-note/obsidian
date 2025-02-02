@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "作曲/Riffusion.md",
+                "file": "作曲/モルにゃん/モルにゃん.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Riffusion"
+              "title": "モルにゃん"
             }
           }
         ]
@@ -94,10 +94,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "作曲/Riffusion.md"
+                "file": "作曲/モルにゃん/モルにゃん.md"
               },
               "icon": "lucide-list",
-              "title": "Riffusionのアウトライン"
+              "title": "モルにゃんのアウトライン"
             }
           }
         ]
@@ -183,26 +183,30 @@
   },
   "active": "89a5fdbfb5b5afa4",
   "lastOpenFiles": [
-    "作曲/attach/Riffusionテスト_日本語っぽいが雰囲気違う2.m4a",
-    "作曲/attach/Riffusionテスト_日本語っぽいが雰囲気違う1.m4a",
-    "作曲/attach/Riffusionテスト_謎言語だけど雰囲気維持2.m4a",
-    "作曲/attach/Riffusionテスト_謎言語だけど雰囲気維持1.m4a",
-    "作曲/attach/Pasted image 20250202120555.png",
-    "作曲/attach/Pasted image 20250202120524.png",
-    "作曲/attach/Pasted image 20250202115704.png",
-    "作曲/attach/郷里の空よ山よ、ドブ沼よinst.mp3",
-    "作曲/attach/郷里の空よ山よ、ドブ沼よ.m4a",
-    "作曲/attach/Pasted image 20250202113116.png",
-    "作曲/attach/Pasted image 20250202111755.png",
-    "作曲/attach",
-    "ゲーム/モブコントロール/モブコントロール2.md",
-    "作曲/Riffusion.md",
+    "不定期日記/2025-02-02.md",
+    "作曲/モルにゃん/モルにゃん.md",
+    "作曲/Riffusion/Riffusion.md",
+    "作曲/モルにゃん",
+    "作曲/Riffusion/attach/Riffusionテスト_日本語っぽいが雰囲気違う2.m4a",
+    "Riffusion/無題のファイル.md",
     "作曲",
+    "作曲/Riffusion/attach/Riffusionテスト_日本語っぽいが雰囲気違う1.m4a",
+    "作曲/Riffusion/attach/Riffusionテスト_謎言語だけど雰囲気維持2.m4a",
+    "作曲/Riffusion/attach/Riffusionテスト_謎言語だけど雰囲気維持1.m4a",
+    "作曲/Riffusion/attach/Pasted image 20250202120555.png",
+    "作曲/Riffusion/attach/Pasted image 20250202120524.png",
+    "作曲/Riffusion/attach/Pasted image 20250202115704.png",
+    "作曲/Riffusion/attach/郷里の空よ山よ、ドブ沼よinst.mp3",
+    "作曲/Riffusion/attach/郷里の空よ山よ、ドブ沼よ.m4a",
+    "作曲/Riffusion/attach/Pasted image 20250202113116.png",
+    "作曲/Riffusion/attach/Pasted image 20250202111755.png",
+    "作曲/Riffusion/attach",
+    "ゲーム/モブコントロール/モブコントロール2.md",
+    "作曲/Riffusion",
     "ゲーム/ローグライク/ローグライク.md",
     "ゲーム/かみさまのおはか/かみさまのおはか.md",
     "ゲーム/よるのまにまに/よるのまにまに.md",
     "ゲーム/ゆめ次元/ゆめ次元.md",
-    "不定期日記/2025-02-02.md",
     "不定期日記/2025-02-01.md",
     "ゲーム/よるのまにまに/attach/Pasted image 20250202031936.png",
     "ゲーム/よるのまにまに/attach/Pasted image 20250202031841.png",
@@ -215,9 +219,7 @@
     "ゲーム/GODOT/3Dダンジョンのテンプレートアセット.md",
     "ゲーム/GODOT/GODOTマイこだわり集.md",
     "雑記/人肉食.md",
-    "雑記",
     "ゲーム/モブコントロール/モブコントロール.md",
-    "不定期日記",
     "ゲーム/モブコントロール/attach/Pasted image 20250202003602.png",
     "ゲーム/モブコントロール/attach/Pasted image 20250201235215.png",
     "ゲーム/よるのまにまに/検討中メモ.md",
@@ -227,8 +229,6 @@
     "Obsidian/Obsidian連携ミスからの復帰.md",
     "Blender/モデリング方法.md",
     "AI/生成AIとバズった技術まとめ.md",
-    "Blender/3D都市データ PLATEAU.md",
-    "AI",
     "無題のファイル.canvas"
   ]
 }
