@@ -36,7 +36,7 @@ https://www.riffusion.com/
 ## 参考にする曲：instrumental版
 
 郷里の空よ山よ、ドブ沼よinst
-![[郷里の空よ山よ、ドブ沼よinst.mp3]]
+![[郷里の空よ山よ、ドブ沼よinst.m4a]]
 ## 歌詞：オリジナル
 
 ```
