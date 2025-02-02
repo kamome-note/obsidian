@@ -11,14 +11,12 @@
             "id": "77c017dd2696c6a4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "不定期日記/20250201.md",
-                "mode": "source",
-                "source": false
+                "file": "作曲/モルにゃん/attach/Pasted image 20250202124442.png"
               },
-              "icon": "lucide-file",
-              "title": "20250201"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250202124442"
             }
           }
         ]
@@ -78,7 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 464.5
+    "width": 295.5
   },
   "right": {
     "id": "999ffefc114c9c83",
@@ -95,13 +93,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "不定期日記/20250201.md",
+                "file": "作曲/モルにゃん/attach/Pasted image 20250202124442.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "20250201のアウトライン"
+              "title": "Pasted image 20250202124442のアウトライン"
             }
           }
         ]
@@ -187,6 +185,8 @@
   },
   "active": "77c017dd2696c6a4",
   "lastOpenFiles": [
+    "作曲/モルにゃん/attach/真夜中のモルにゃん音頭.m4a",
+    "不定期日記/20250201.md",
     "不定期日記/20250202.md",
     "作曲/モルにゃん/雛形.md",
     "作曲/モルにゃん/真夜中のモルにゃん音頭.md",
@@ -197,7 +197,6 @@
     "作曲/作曲雑記/attach/Riffusionテスト_日本語っぽいが雰囲気違う1.m4a",
     "作曲/作曲雑記/attach/Riffusionテスト_日本語っぽいが雰囲気違う2.m4a",
     "作曲/作曲雑記/attach/郷里の空よ山よ、ドブ沼よ.m4a",
-    "作曲/モルにゃん/attach/真夜中のモルにゃん音頭.m4a",
     "作曲/モルにゃん/attach/真夜中のモルにゃん音頭inst.m4a",
     "作曲/作曲雑記/attach/Pasted image 20250202131133.png",
     "作曲/モルにゃん/attach/Pasted image 20250202124442.png",
@@ -216,7 +215,6 @@
     "ゲーム/かみさまのおはか/かみさまのおはか.md",
     "ゲーム/よるのまにまに/よるのまにまに.md",
     "ゲーム/ゆめ次元/ゆめ次元.md",
-    "不定期日記/20250201.md",
     "ゲーム/よるのまにまに/attach/Pasted image 20250202031936.png",
     "ゲーム/よるのまにまに/attach/Pasted image 20250202031841.png",
     "不定期日記/2025-02-02　やりたいことが多い.md",
