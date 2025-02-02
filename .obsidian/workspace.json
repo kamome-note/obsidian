@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "作曲/モルにゃん/モルにゃん.md",
+                "file": "作曲/モルにゃん/001：真夜中のモルにゃん音頭.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "モルにゃん"
+              "title": "001：真夜中のモルにゃん音頭"
             }
           }
         ],
@@ -137,10 +137,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "作曲/モルにゃん/モルにゃん.md"
+                "file": "作曲/モルにゃん/001：真夜中のモルにゃん音頭.md"
               },
               "icon": "lucide-list",
-              "title": "モルにゃんのアウトライン"
+              "title": "001：真夜中のモルにゃん音頭のアウトライン"
             }
           }
         ]
@@ -226,9 +226,9 @@
   },
   "active": "77c017dd2696c6a4",
   "lastOpenFiles": [
+    "作曲/モルにゃん/モルにゃん.md",
     "作曲/モルにゃん/000：雛形.md",
     "作曲/モルにゃん/001：真夜中のモルにゃん音頭.md",
-    "作曲/モルにゃん/モルにゃん.md",
     "作曲/作曲雑記/歌詞について.md",
     "作曲/作曲雑記/attach/Pasted image 20250202131133.png",
     "作曲/作曲雑記/Riffusion.md",
