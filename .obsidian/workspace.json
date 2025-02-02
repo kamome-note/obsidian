@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "作曲/作曲雑記/Riffusion.md",
+                "file": "Obsidian/pullリクエストの失敗.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Riffusion"
+              "title": "pullリクエストの失敗"
             }
           }
         ],
@@ -110,13 +110,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "作曲/作曲雑記/Riffusion.md",
+                "file": "Obsidian/pullリクエストの失敗.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Riffusionのアウトライン"
+              "title": "pullリクエストの失敗のアウトライン"
             }
           }
         ]
@@ -202,10 +202,13 @@
   },
   "active": "2d1b8af795c90bb3",
   "lastOpenFiles": [
+    "作曲/モルにゃん/ignore/真夜中のモルにゃん音頭.m4a",
+    "作曲/モルにゃん/ignore/真夜中のモルにゃん音頭inst.m4a",
+    "Obsidian/attach/Pasted image 20250202213951.png",
+    "作曲/作曲雑記/Riffusion.md",
     "作曲/モルにゃん/ignore",
     "作曲/モルにゃん/真夜中のモルにゃん音頭.md",
     "作曲/モルにゃん/attach/真夜中のモルにゃん音頭.m4a",
-    "作曲/作曲雑記/Riffusion.md",
     "作曲/作曲雑記/歌詞について.md",
     "Obsidian/pullリクエストの失敗.md",
     "Obsidian/attach/Pasted image 20250202201539.png",
@@ -225,8 +228,6 @@
     "不定期日記/20250202.md",
     "作曲/モルにゃん/雛形.md",
     "作曲/モルにゃん/モルにゃん.md",
-    "作曲/モルにゃん/attach",
-    "作曲/モルにゃん",
     "Riffusion/無題のファイル.md",
     "作曲/作曲雑記/attach/Pasted image 20250202120524.png",
     "作曲/作曲雑記/attach/Pasted image 20250202115704.png",
@@ -238,7 +239,6 @@
     "ゲーム/よるのまにまに/よるのまにまに.md",
     "ゲーム/ゆめ次元/ゆめ次元.md",
     "ゲーム/よるのまにまに/attach/Pasted image 20250202031936.png",
-    "ゲーム/よるのまにまに/attach/Pasted image 20250202031841.png",
     "不定期日記/2025-02-02　やりたいことが多い.md",
     "ゲーム/GODOT/GODOTシングルトン.md",
     "ゲーム/GODOT/GODOTつまづいたところ集.md",
