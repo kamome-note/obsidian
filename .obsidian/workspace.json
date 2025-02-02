@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian/gitignoreの設定.md",
+                "file": "作曲/作曲雑記/Riffusion.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "gitignoreの設定"
+              "title": "Riffusion"
             }
           }
         ],
@@ -110,13 +110,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian/gitignoreの設定.md",
+                "file": "作曲/作曲雑記/Riffusion.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "gitignoreの設定のアウトライン"
+              "title": "Riffusionのアウトライン"
             }
           }
         ]
@@ -202,11 +202,11 @@
   },
   "active": "9fcf2b23ed8ab4b2",
   "lastOpenFiles": [
-    "Obsidian/attach/Pasted image 20250203010154.png",
+    "Obsidian/gitignoreの設定.md",
     "作曲/モルにゃん/ignore/test3.md",
+    "Obsidian/attach/Pasted image 20250203010154.png",
     "作曲/モルにゃん/ignore/真夜中のモルにゃん音頭.m4a",
     "作曲/モルにゃん/ignore/真夜中のモルにゃん音頭inst.m4a",
-    "Obsidian/gitignoreの設定.md",
     "作曲/作曲雑記/ignore/Riffusionテスト_謎言語だけど雰囲気維持1.m4a",
     "作曲/作曲雑記/ignore/Riffusionテスト_日本語っぽいが雰囲気違う1.m4a",
     "作曲/作曲雑記/ignore/Riffusionテスト_謎言語だけど雰囲気維持2.m4a",
@@ -236,7 +236,6 @@
     "Obsidian/pullリクエストの失敗.md",
     "Obsidian/attach/Pasted image 20250202214249.png",
     "Obsidian/attach/Pasted image 20250202214122.png",
-    "Obsidian/attach/Pasted image 20250202213951.png",
     "作曲/作曲雑記/歌詞について.md",
     "不定期日記/20250201.md",
     "不定期日記/20250202.md",
