@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "20250201"
             }
-          },
-          {
-            "id": "0544e3f0664620e8",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.4"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,12 +95,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "不定期日記/20250201.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "アウトライン"
+              "title": "20250201のアウトライン"
             }
           }
         ]
@@ -197,7 +185,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0544e3f0664620e8",
+  "active": "77c017dd2696c6a4",
   "lastOpenFiles": [
     "不定期日記/20250202.md",
     "作曲/モルにゃん/雛形.md",
