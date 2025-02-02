@@ -4,37 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "7d40fcf7f7334485",
+        "id": "13537c471b48228c",
         "type": "tabs",
         "children": [
           {
-            "id": "77c017dd2696c6a4",
+            "id": "7a56f71faf6c9030",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Obsidian/Obsidian連携ミスからの復帰.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Obsidian連携ミスからの復帰"
-            }
-          },
-          {
-            "id": "7e0ef4d743d2240d",
-            "type": "leaf",
-            "state": {
-              "type": "audio",
-              "state": {
-                "file": "作曲/モルにゃん/ignore/真夜中のモルにゃん音頭.m4a"
-              },
-              "icon": "lucide-file-audio",
-              "title": "真夜中のモルにゃん音頭"
+              "title": "新規タブ"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -198,7 +181,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7e0ef4d743d2240d",
+  "active": "5203db03be87ea1d",
   "lastOpenFiles": [
     "作曲/作曲雑記/ignore/郷里の空よ山よ、ドブ沼よinst.m4a",
     "作曲/モルにゃん/ignore/真夜中のモルにゃん音頭.m4a",
