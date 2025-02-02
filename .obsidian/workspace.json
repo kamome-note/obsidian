@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ゲーム/かみさまのおはか/かみさまのおはか.md",
+                "file": "作曲/Riffusion.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "かみさまのおはか"
+              "title": "Riffusion"
             }
           }
         ]
@@ -94,10 +94,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ゲーム/かみさまのおはか/かみさまのおはか.md"
+                "file": "作曲/Riffusion.md"
               },
               "icon": "lucide-list",
-              "title": "かみさまのおはかのアウトライン"
+              "title": "Riffusionのアウトライン"
             }
           }
         ]
@@ -183,9 +183,15 @@
   },
   "active": "89a5fdbfb5b5afa4",
   "lastOpenFiles": [
+    "作曲/attach/Pasted image 20250202111755.png",
+    "作曲/attach",
+    "ゲーム/モブコントロール/モブコントロール2.md",
+    "作曲/Riffusion.md",
+    "作曲",
+    "ゲーム/ローグライク/ローグライク.md",
+    "ゲーム/かみさまのおはか/かみさまのおはか.md",
     "ゲーム/よるのまにまに/よるのまにまに.md",
     "ゲーム/ゆめ次元/ゆめ次元.md",
-    "ゲーム/ローグライク/ローグライク.md",
     "不定期日記/2025-02-02.md",
     "不定期日記/2025-02-01.md",
     "ゲーム/よるのまにまに/attach/Pasted image 20250202031936.png",
@@ -199,7 +205,6 @@
     "ゲーム/GODOT/3Dダンジョンのテンプレートアセット.md",
     "ゲーム/GODOT/GODOTマイこだわり集.md",
     "雑記/人肉食.md",
-    "ゲーム/モブコントロール/モブコントロール2.md",
     "雑記",
     "ゲーム/モブコントロール/モブコントロール.md",
     "不定期日記",
@@ -220,14 +225,10 @@
     "Blender/3D都市データ PLATEAU.md",
     "AI",
     "Obsidian",
-    "雑記/モックアップ.md",
-    "ゲーム/アイヌマシズマ/アイヌマシズマ.md",
     "ゲーム/モブコントロール/attach",
     "ゲーム/モブコントロール",
     "ゲーム/ローグライク/attach",
     "ゲーム/ローグライク",
-    "無題のファイル.canvas",
-    "ゲーム/ゲーム検討",
-    "ゲーム/ゆめ次元/attach"
+    "無題のファイル.canvas"
   ]
 }
