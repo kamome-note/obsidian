@@ -120,7 +120,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 464.5
   },
   "right": {
     "id": "999ffefc114c9c83",
@@ -226,28 +226,28 @@
   },
   "active": "77c017dd2696c6a4",
   "lastOpenFiles": [
+    "作曲/作曲雑記/attach/Riffusionテスト_謎言語だけど雰囲気維持1.m4a",
+    "作曲/モルにゃん/001：真夜中のモルにゃん音頭.md",
+    "作曲/作曲雑記/attach/Riffusionテスト_日本語っぽいが雰囲気違う1.m4a",
+    "作曲/作曲雑記/attach/Riffusionテスト_日本語っぽいが雰囲気違う2.m4a",
+    "作曲/作曲雑記/attach/郷里の空よ山よ、ドブ沼よ.m4a",
+    "作曲/モルにゃん/attach/真夜中のモルにゃん音頭.m4a",
+    "作曲/モルにゃん/attach/真夜中のモルにゃん音頭inst.m4a",
     "作曲/モルにゃん/モルにゃん.md",
     "作曲/モルにゃん/000：雛形.md",
-    "作曲/モルにゃん/001：真夜中のモルにゃん音頭.md",
     "作曲/作曲雑記/歌詞について.md",
     "作曲/作曲雑記/attach/Pasted image 20250202131133.png",
     "作曲/作曲雑記/Riffusion.md",
-    "作曲/モルにゃん/attach/真夜中のモルにゃん音頭inst.m4a",
-    "作曲/モルにゃん/attach/真夜中のモルにゃん音頭.m4a",
     "作曲/モルにゃん/attach/Pasted image 20250202124442.png",
     "作曲/モルにゃん/attach",
     "不定期日記/2025-02-02.md",
     "作曲/モルにゃん",
-    "作曲/作曲雑記/attach/Riffusionテスト_日本語っぽいが雰囲気違う2.m4a",
     "Riffusion/無題のファイル.md",
     "作曲",
-    "作曲/作曲雑記/attach/Riffusionテスト_日本語っぽいが雰囲気違う1.m4a",
     "作曲/作曲雑記/attach/Riffusionテスト_謎言語だけど雰囲気維持2.m4a",
-    "作曲/作曲雑記/attach/Riffusionテスト_謎言語だけど雰囲気維持1.m4a",
     "作曲/作曲雑記/attach/Pasted image 20250202120555.png",
     "作曲/作曲雑記/attach/Pasted image 20250202120524.png",
     "作曲/作曲雑記/attach/Pasted image 20250202115704.png",
-    "作曲/作曲雑記/attach/郷里の空よ山よ、ドブ沼よinst.mp3",
     "作曲/作曲雑記/attach/Pasted image 20250202113116.png",
     "作曲/作曲雑記/attach/Pasted image 20250202111755.png",
     "ゲーム/モブコントロール/モブコントロール2.md",
@@ -271,7 +271,6 @@
     "ゲーム/モブコントロール/attach/Pasted image 20250202003602.png",
     "ゲーム/よるのまにまに/検討中メモ.md",
     "ゲーム/よるのまにまに/Googleストリートビュー.md",
-    "Obsidian/Obsidianファイル連携.md",
     "無題のファイル.canvas"
   ]
 }
