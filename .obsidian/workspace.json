@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "作曲/モルにゃん/ignore/test3.md",
+                "file": "Obsidian/gitignoreの設定.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "test3"
+              "title": "gitignoreの設定"
             }
           }
         ],
@@ -110,13 +110,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "作曲/モルにゃん/ignore/test3.md",
+                "file": "Obsidian/gitignoreの設定.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "test3のアウトライン"
+              "title": "gitignoreの設定のアウトライン"
             }
           }
         ]
@@ -202,6 +202,8 @@
   },
   "active": "9fcf2b23ed8ab4b2",
   "lastOpenFiles": [
+    "Obsidian/attach/Pasted image 20250203010154.png",
+    "作曲/モルにゃん/ignore/test3.md",
     "作曲/モルにゃん/ignore/真夜中のモルにゃん音頭.m4a",
     "作曲/モルにゃん/ignore/真夜中のモルにゃん音頭inst.m4a",
     "Obsidian/gitignoreの設定.md",
@@ -214,7 +216,6 @@
     "作曲/作曲雑記/Riffusion.md",
     "作曲/作曲雑記/ignore/test3.md",
     "作曲/モルにゃん/雛形.md",
-    "作曲/モルにゃん/ignore/test3.md",
     "作曲/作曲雑記/ignore/test2.md",
     "作曲/モルにゃん/ignore/test.md",
     "作曲/モルにゃん/ignore/test2.md",
