@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ゲーム/モブコントロール/モブコントロール3.md",
+                "file": "不定期日記/20250203.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "モブコントロール3"
+              "title": "20250203"
             }
           }
         ],
@@ -138,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ゲーム/モブコントロール/モブコントロール3.md",
+                "file": "不定期日記/20250203.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "モブコントロール3のアウトライン"
+              "title": "20250203のアウトライン"
             }
           }
         ]
@@ -230,9 +230,11 @@
   },
   "active": "9bc1eaabb9ed7ebb",
   "lastOpenFiles": [
+    "不定期日記/20250202.md",
+    "不定期日記/20250203.md",
+    "ゲーム/モブコントロール/モブコントロール3.md",
     "ゲーム/モブコントロール/モブコントロール2.md",
     "ゲーム/モブコントロール/モブコントロール.md",
-    "ゲーム/モブコントロール/モブコントロール3.md",
     "ゲーム/モブコントロール/attach/Pasted image 20250204023522.png",
     "ゲーム/モブコントロール/attach/Pasted image 20250204022337.png",
     "ゲーム/モブコントロール/attach/Pasted image 20250204021815.png",
@@ -245,9 +247,7 @@
     "ゲーム/モブコントロール/attach/Pasted image 20250204015203.png",
     "ゲーム/GODOT/Godot EngineのTIPS.md",
     "ゲーム/GODOT/GODOTマイこだわり集.md",
-    "不定期日記/20250203.md",
     "作曲/作曲雑記/Riffusion.md",
-    "不定期日記/20250202.md",
     "Obsidian/gitignoreの設定.md",
     "作曲/モルにゃん/真夜中のモルにゃん音頭.md",
     "作曲/作曲雑記/歌詞について.md",
