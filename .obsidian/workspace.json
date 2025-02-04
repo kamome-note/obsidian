@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "不定期日記/20250204.md",
+                "file": "ゲーム/モブコントロール/モブコントロール3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20250204"
+              "title": "モブコントロール3"
             }
           }
         ],
@@ -152,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "不定期日記/20250204.md",
+                "file": "ゲーム/モブコントロール/モブコントロール3.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "20250204のアウトライン"
+              "title": "モブコントロール3のアウトライン"
             }
           }
         ]
@@ -244,9 +244,18 @@
   },
   "active": "8867d0196f764deb",
   "lastOpenFiles": [
+    "ゲーム/モブコントロール/attach/Pasted image 20250205021340.png",
+    "ゲーム/モブコントロール/attach/Pasted image 20250205020246.png",
+    "ゲーム/モブコントロール/attach/Pasted image 20250205020126.png",
+    "ゲーム/モブコントロール/attach/Pasted image 20250205015853.png",
+    "ゲーム/モブコントロール/attach/Pasted image 20250205015726.png",
+    "ゲーム/モブコントロール/attach/Pasted image 20250205015535.png",
+    "ゲーム/モブコントロール/attach/Pasted image 20250205014333.png",
+    "ゲーム/モブコントロール/attach/Pasted image 20250205013900.png",
+    "ゲーム/モブコントロール/attach/Pasted image 20250205013640.png",
+    "不定期日記/20250204.md",
     "不定期日記/20250202.md",
     "不定期日記/20250203.md",
-    "不定期日記/20250204.md",
     "ゲーム/雑記/無料アセット.md",
     "ゲーム/雑記/attach/Pasted image 20250204224305.png",
     "ゲーム/雑記/attach",
@@ -256,14 +265,6 @@
     "ゲーム/モブコントロール/モブコントロール2.md",
     "ゲーム/モブコントロール/モブコントロール.md",
     "ゲーム/モブコントロール/attach/Pasted image 20250204023522.png",
-    "ゲーム/モブコントロール/attach/Pasted image 20250204022337.png",
-    "ゲーム/モブコントロール/attach/Pasted image 20250204021815.png",
-    "ゲーム/モブコントロール/attach/Pasted image 20250204021430.png",
-    "ゲーム/モブコントロール/attach/Pasted image 20250204020746.png",
-    "ゲーム/モブコントロール/attach/Pasted image 20250204020643.png",
-    "ゲーム/モブコントロール/attach/Pasted image 20250204015716.png",
-    "ゲーム/モブコントロール/attach/Pasted image 20250204015440.png",
-    "ゲーム/モブコントロール/attach/Pasted image 20250204015232.png",
     "ゲーム/GODOT/Godot EngineのTIPS.md",
     "ゲーム/GODOT/GODOTマイこだわり集.md",
     "作曲/作曲雑記/Riffusion.md",
@@ -289,7 +290,6 @@
     "作曲/モルにゃん/モルにゃん.md",
     "Obsidian/Obsidianファイル連携.md",
     "Obsidian/pullリクエストの失敗.md",
-    "Riffusion/無題のファイル.md",
     "無題のファイル.canvas"
   ]
 }
