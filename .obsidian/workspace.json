@@ -76,9 +76,23 @@
               "icon": "lucide-file",
               "title": "20250204"
             }
+          },
+          {
+            "id": "2b7cbe5027fb08f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "不定期日記/20250205.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "20250205"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -152,13 +166,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "不定期日記/20250204.md",
+                "file": "不定期日記/20250205.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "20250204のアウトライン"
+              "title": "20250205のアウトライン"
             }
           }
         ]
@@ -242,21 +256,24 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8867d0196f764deb",
+  "active": "2b7cbe5027fb08f0",
   "lastOpenFiles": [
+    "不定期日記/20250204.md",
+    "不定期日記/20250205.md",
     "ゲーム/モブコントロール/モブコントロール3.md",
+    "ゲーム/モブコントロール/attach/Pasted image 20250206012004.png",
+    "ゲーム/モブコントロール/attach/Pasted image 20250206003941.png",
+    "ゲーム/モブコントロール/attach/Pasted image 20250206003806.png",
+    "ゲーム/モブコントロール/attach/Pasted image 20250206002450.png",
+    "ゲーム/モブコントロール/attach/Pasted image 20250206002245.png",
+    "ゲーム/モブコントロール/attach/Pasted image 20250206002057.png",
+    "作曲/作曲雑記/歌詞について.md",
+    "作曲/作曲雑記/Riffusion.md",
     "ゲーム/モブコントロール/モブコントロール2.md",
     "ゲーム/モブコントロール/attach/Pasted image 20250205022734.png",
     "ゲーム/モブコントロール/attach/Pasted image 20250205021340.png",
     "ゲーム/モブコントロール/attach/Pasted image 20250205020246.png",
     "ゲーム/モブコントロール/attach/Pasted image 20250205020126.png",
-    "ゲーム/モブコントロール/attach/Pasted image 20250205015853.png",
-    "ゲーム/モブコントロール/attach/Pasted image 20250205015726.png",
-    "ゲーム/モブコントロール/attach/Pasted image 20250205015535.png",
-    "ゲーム/モブコントロール/attach/Pasted image 20250205014333.png",
-    "ゲーム/モブコントロール/attach/Pasted image 20250205013900.png",
-    "ゲーム/モブコントロール/attach/Pasted image 20250205013640.png",
-    "不定期日記/20250204.md",
     "不定期日記/20250202.md",
     "不定期日記/20250203.md",
     "ゲーム/雑記/無料アセット.md",
@@ -266,10 +283,8 @@
     "ゲーム/モブコントロール/モブコントロール.md",
     "ゲーム/GODOT/Godot EngineのTIPS.md",
     "ゲーム/GODOT/GODOTマイこだわり集.md",
-    "作曲/作曲雑記/Riffusion.md",
     "Obsidian/gitignoreの設定.md",
     "作曲/モルにゃん/真夜中のモルにゃん音頭.md",
-    "作曲/作曲雑記/歌詞について.md",
     "作曲/作曲雑記/ignore/Riffusionテスト_謎言語だけど雰囲気維持2.m4a",
     "作曲/モルにゃん/ignore/test3.md",
     "作曲/モルにゃん/ignore/真夜中のモルにゃん音頭.m4a",
@@ -288,7 +303,6 @@
     "Obsidian/Obsidian連携ミスからの復帰.md",
     "作曲/モルにゃん/モルにゃん.md",
     "Obsidian/Obsidianファイル連携.md",
-    "Obsidian/pullリクエストの失敗.md",
     "無題のファイル.canvas"
   ]
 }
