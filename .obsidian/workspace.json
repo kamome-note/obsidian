@@ -83,16 +83,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ゲーム/よるのまにまに/よるのまにまに.md",
+                "file": "ゲーム/よるのまにまに/検討中メモ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "よるのまにまに"
+              "title": "検討中メモ"
+            }
+          },
+          {
+            "id": "2f52a194c52863c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ゲーム/よるのまにまに/検討中メモ.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "検討中メモ"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -166,13 +180,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ゲーム/よるのまにまに/よるのまにまに.md",
+                "file": "ゲーム/よるのまにまに/検討中メモ.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "よるのまにまにのアウトライン"
+              "title": "検討中メモのアウトライン"
             }
           }
         ]
@@ -256,8 +270,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2b7cbe5027fb08f0",
+  "active": "2f52a194c52863c6",
   "lastOpenFiles": [
+    "ゲーム/よるのまにまに/Googleストリートビュー.md",
+    "ゲーム/よるのまにまに/よるのまにまに.md",
+    "ゲーム/よるのまにまに/マップ.md",
+    "ゲーム/よるのまにまに/検討中メモ.md",
     "不定期日記/20250205.md",
     "不定期日記/20250204.md",
     "ゲーム/モブコントロール/モブコントロール3.md",
@@ -300,9 +318,6 @@
     "作曲/モルにゃん/ignore/test.md",
     "作曲/モルにゃん/ignore/test2.md",
     "作曲/作曲雑記/ignore/test.md",
-    "Obsidian/Obsidian連携ミスからの復帰.md",
-    "作曲/モルにゃん/モルにゃん.md",
-    "Obsidian/Obsidianファイル連携.md",
     "無題のファイル.canvas"
   ]
 }
