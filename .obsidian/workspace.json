@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "不定期日記/20250205.md",
+                "file": "ゲーム/よるのまにまに/よるのまにまに.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20250205"
+              "title": "よるのまにまに"
             }
           }
         ],
@@ -166,13 +166,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "不定期日記/20250205.md",
+                "file": "ゲーム/よるのまにまに/よるのまにまに.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "20250205のアウトライン"
+              "title": "よるのまにまにのアウトライン"
             }
           }
         ]
@@ -258,8 +258,8 @@
   },
   "active": "2b7cbe5027fb08f0",
   "lastOpenFiles": [
-    "不定期日記/20250204.md",
     "不定期日記/20250205.md",
+    "不定期日記/20250204.md",
     "ゲーム/モブコントロール/モブコントロール3.md",
     "ゲーム/モブコントロール/attach/Pasted image 20250206012004.png",
     "ゲーム/モブコントロール/attach/Pasted image 20250206003941.png",
