@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "不定期日記/20250206.md",
+                "file": "Obsidian/gitignoreの設定.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20250206"
+              "title": "gitignoreの設定"
             }
           }
         ],
@@ -194,13 +194,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "不定期日記/20250206.md",
+                "file": "Obsidian/gitignoreの設定.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "20250206のアウトライン"
+              "title": "gitignoreの設定のアウトライン"
             }
           }
         ]
@@ -286,8 +286,8 @@
   },
   "active": "3f94efe37478715b",
   "lastOpenFiles": [
-    "不定期日記/20250205.md",
     "不定期日記/20250206.md",
+    "不定期日記/20250205.md",
     "ゲーム/モブコントロール/モブコントロール3.md",
     "ゲーム/モブコントロール/attach/Pasted image 20250207025328.png",
     "ゲーム/モブコントロール/attach/Pasted image 20250207025220.png",
