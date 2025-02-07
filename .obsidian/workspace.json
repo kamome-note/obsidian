@@ -83,6 +83,20 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "ゲーム/よるのまにまに/検討中メモ.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "検討中メモ"
+            }
+          },
+          {
+            "id": "2f52a194c52863c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "不定期日記/20250205.md",
                 "mode": "source",
                 "source": false
@@ -90,9 +104,37 @@
               "icon": "lucide-file",
               "title": "20250205"
             }
+          },
+          {
+            "id": "3f94efe37478715b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "不定期日記/20250205.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "20250205"
+            }
+          },
+          {
+            "id": "4342de6a6a46a025",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "不定期日記/20250206.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "20250206"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -166,13 +208,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "不定期日記/20250205.md",
+                "file": "不定期日記/20250206.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "20250205のアウトライン"
+              "title": "20250206のアウトライン"
             }
           }
         ]
@@ -256,24 +298,31 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2b7cbe5027fb08f0",
+  "active": "4342de6a6a46a025",
   "lastOpenFiles": [
-    "不定期日記/20250204.md",
     "不定期日記/20250205.md",
+    "不定期日記/20250206.md",
     "ゲーム/モブコントロール/モブコントロール3.md",
+    "ゲーム/モブコントロール/attach/Pasted image 20250208014955.png",
+    "ゲーム/モブコントロール/attach/Pasted image 20250208014940.png",
+    "ゲーム/モブコントロール/attach/Pasted image 20250208014924.png",
+    "ゲーム/モブコントロール/attach/Pasted image 20250208014908.png",
+    "ゲーム/よるのまにまに/検討中メモ.md",
+    "ゲーム/よるのまにまに/よるのまにまに.md",
+    "作曲/作曲雑記/歌詞について.md",
+    "Obsidian/gitignoreの設定.md",
+    "不定期日記/20250206.md",
+    "ゲーム/モブコントロール/attach/Pasted image 20250207025328.png",
+    "ゲーム/モブコントロール/attach/Pasted image 20250207025220.png",
+    "ゲーム/モブコントロール/attach/Pasted image 20250207024856.png",
+    "ゲーム/モブコントロール/attach/Pasted image 20250207024646.png",
+    "ゲーム/よるのまにまに/Googleストリートビュー.md",
+    "ゲーム/よるのまにまに/マップ.md",
+    "不定期日記/20250204.md",
     "ゲーム/モブコントロール/attach/Pasted image 20250206012004.png",
     "ゲーム/モブコントロール/attach/Pasted image 20250206003941.png",
-    "ゲーム/モブコントロール/attach/Pasted image 20250206003806.png",
-    "ゲーム/モブコントロール/attach/Pasted image 20250206002450.png",
-    "ゲーム/モブコントロール/attach/Pasted image 20250206002245.png",
-    "ゲーム/モブコントロール/attach/Pasted image 20250206002057.png",
-    "作曲/作曲雑記/歌詞について.md",
     "作曲/作曲雑記/Riffusion.md",
     "ゲーム/モブコントロール/モブコントロール2.md",
-    "ゲーム/モブコントロール/attach/Pasted image 20250205022734.png",
-    "ゲーム/モブコントロール/attach/Pasted image 20250205021340.png",
-    "ゲーム/モブコントロール/attach/Pasted image 20250205020246.png",
-    "ゲーム/モブコントロール/attach/Pasted image 20250205020126.png",
     "不定期日記/20250202.md",
     "不定期日記/20250203.md",
     "ゲーム/雑記/無料アセット.md",
@@ -283,7 +332,6 @@
     "ゲーム/モブコントロール/モブコントロール.md",
     "ゲーム/GODOT/Godot EngineのTIPS.md",
     "ゲーム/GODOT/GODOTマイこだわり集.md",
-    "Obsidian/gitignoreの設定.md",
     "作曲/モルにゃん/真夜中のモルにゃん音頭.md",
     "作曲/作曲雑記/ignore/Riffusionテスト_謎言語だけど雰囲気維持2.m4a",
     "作曲/モルにゃん/ignore/test3.md",
@@ -298,11 +346,6 @@
     "作曲/モルにゃん/雛形.md",
     "作曲/作曲雑記/ignore/test2.md",
     "作曲/モルにゃん/ignore/test.md",
-    "作曲/モルにゃん/ignore/test2.md",
-    "作曲/作曲雑記/ignore/test.md",
-    "Obsidian/Obsidian連携ミスからの復帰.md",
-    "作曲/モルにゃん/モルにゃん.md",
-    "Obsidian/Obsidianファイル連携.md",
     "無題のファイル.canvas"
   ]
 }
