@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ゲーム/よるのまにまに/検討中メモ.md",
+                "file": "ゲーム/よるのまにまに/よるのまにまに.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "検討中メモ"
+              "title": "よるのまにまに"
             }
           }
         ]
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ゲーム/よるのまにまに/検討中メモ.md",
+                "file": "ゲーム/よるのまにまに/よるのまにまに.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "検討中メモへのバックリンク"
+              "title": "よるのまにまにへのバックリンク"
             }
           },
           {
@@ -114,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ゲーム/よるのまにまに/検討中メモ.md",
+                "file": "ゲーム/よるのまにまに/よるのまにまに.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "検討中メモからのアウトゴーイングリンク"
+              "title": "よるのまにまにからのアウトゴーイングリンク"
             }
           },
           {
@@ -161,13 +161,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ゲーム/よるのまにまに/検討中メモ.md",
+                "file": "ゲーム/よるのまにまに/よるのまにまに.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "検討中メモのアウトライン"
+              "title": "よるのまにまにのアウトライン"
             }
           }
         ]
@@ -190,8 +190,8 @@
   },
   "active": "4a7336ae1cb80574",
   "lastOpenFiles": [
-    "ゲーム/よるのまにまに/よるのまにまに.md",
     "ゲーム/よるのまにまに/検討中メモ.md",
+    "ゲーム/よるのまにまに/よるのまにまに.md",
     "ゲーム/モブコントロール/モブコントロール3.md"
   ]
 }
