@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ゲーム/よるのまにまに/検討中メモ.md",
+                "file": "不定期日記/20250206.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "検討中メモ"
+              "title": "20250206"
             }
           }
         ]
@@ -40,7 +40,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byModifiedTime",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -87,7 +87,7 @@
       {
         "id": "753f49e03e2bf258",
         "type": "tabs",
-        "dimension": 27.536231884057973,
+        "dimension": 27.536231884057976,
         "children": [
           {
             "id": "0ede02e00c6fcea7",
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ゲーム/よるのまにまに/検討中メモ.md",
+                "file": "不定期日記/20250207.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "検討中メモへのバックリンク"
+              "title": "20250207へのバックリンク"
             }
           },
           {
@@ -114,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ゲーム/よるのまにまに/検討中メモ.md",
+                "file": "不定期日記/20250207.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "検討中メモからのアウトゴーイングリンク"
+              "title": "20250207からのアウトゴーイングリンク"
             }
           },
           {
@@ -161,13 +161,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ゲーム/よるのまにまに/検討中メモ.md",
+                "file": "不定期日記/20250206.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "検討中メモのアウトライン"
+              "title": "20250206のアウトライン"
             }
           }
         ]
@@ -190,8 +190,12 @@
   },
   "active": "4a7336ae1cb80574",
   "lastOpenFiles": [
-    "ゲーム/よるのまにまに/よるのまにまに.md",
+    "不定期日記/20250205.md",
+    "不定期日記/20250206.md",
+    "不定期日記/20250207.md",
+    "不定期日記/20250201.md",
     "ゲーム/よるのまにまに/検討中メモ.md",
+    "ゲーム/よるのまにまに/よるのまにまに.md",
     "ゲーム/モブコントロール/モブコントロール3.md"
   ]
 }
