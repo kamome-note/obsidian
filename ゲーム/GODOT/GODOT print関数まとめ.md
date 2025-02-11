@@ -1,3 +1,4 @@
+
 【Godot】print関数まとめ
 https://2dgames.jp/godot-print/
 
