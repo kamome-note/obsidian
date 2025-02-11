@@ -184,8 +184,8 @@ Godotではシーンに近いアセットのファイルをグループ化して
   /SFX
     ballista_volt_shot.wav
     ballista_volt_hit.wav
-/Low
-  /Scenery
+/Low #小規模データの意味
+  /Scenery #シーンの意味
     ballista.gd
     ballista_volt.gd
 # シーンは使わない
