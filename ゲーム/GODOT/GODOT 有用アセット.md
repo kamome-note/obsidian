@@ -17,6 +17,7 @@ https://zenn.dev/folt_a/articles/4d4fa7d6babade
 	- https://github.com/nathanhoad/godot_dialogue_manager
 - Dialogic：リッチな会話シーンが作れるアドオン
 	- https://github.com/coppolaemilio/dialogic
+	- https://docs.dialogic.pro/introduction.html
 - Effekseer for Godot：エフェクトを再生できるOSSツール
 	- https://github.com/effekseer/EffekseerForGodot4
 - GDCubism：Live2DをGodotで再生できるGDExtensionアドオン
