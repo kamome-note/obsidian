@@ -25,3 +25,7 @@ https://zenn.dev/folt_a/articles/4d4fa7d6babade
 - Native Dialogs：Godotで、OSネイティブのダイアログを表示することができるGDExtensionアドオン（ツール向け）
 - gdscript-preprocessor：C#の`#if DEBUG`みたいなことができる。
 - godot-nesink：Godotのawaitを、JavaScriptのPromiseのように扱えるアドオン（Godotのawaitだと複数の非同期を走らせて、全部終わるのを待ったり、キャンセルするのが難しい）
+
+
+
+
