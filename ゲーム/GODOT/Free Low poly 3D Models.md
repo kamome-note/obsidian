@@ -1,3 +1,7 @@
+cgtrader
+- ユーザ名：　kamome-no-utage
+- メールアドレス：　kamome.no.kakegoto@gmail.com
+- パスワード：　utagenO@37564da
 
 ヒゲ：Similar free VR / AR / Low poly 3D Models
 https://www.cgtrader.com/free-3d-models/character/man/low-poly-bearded-man
