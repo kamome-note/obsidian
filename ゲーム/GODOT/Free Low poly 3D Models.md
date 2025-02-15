@@ -6,7 +6,7 @@ cgtrader
 ヒゲ：Similar free VR / AR / Low poly 3D Models
 https://www.cgtrader.com/free-3d-models/character/man/low-poly-bearded-man
 
-戦争兵士：Similar free VR / AR / Low poly 3D Models
+✗　戦争兵士：Similar free VR / AR / Low poly 3D Models　アップデート用
 https://www.cgtrader.com/free-3d-models/character/man/modular-military-character-22
 
 ファンタジー兵士：Similar free VR / AR / Low poly 3D Models
