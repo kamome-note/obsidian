@@ -219,3 +219,4 @@ apple@kamome-MacBook-Pro ~ % /usr/local/bin/python3.11 /Users/apple/Downloads/pr
 えええ、すご！
 すごくない！？
 
+![[Pasted image 20250324073358.png]]
