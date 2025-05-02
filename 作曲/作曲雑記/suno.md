@@ -10,6 +10,13 @@ https://suno.com/home
 
 kamome.no.kakegoto@gmail.com
 
+kamomenoutage@gmail.com
+
+kamome.no.pinterest@gmail.com
+
+kamome.no.zoom@gmail.com
+
+
 
 
 
