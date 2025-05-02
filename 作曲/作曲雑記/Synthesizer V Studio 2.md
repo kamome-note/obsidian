@@ -36,7 +36,7 @@ Synthesizer V Studio 2 Proではボーカルスタイルを選んだりただ混
 ## システム要件
 OS
 - Windows 11
-- macOS 10.13 or newer
+- macOS 10.13 or newer　**問題なし！**
 - Ubuntu 20.04 or newr
 CPU
 - 105 ms round-trip latency

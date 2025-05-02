@@ -48,7 +48,7 @@ sunoやudioで生成した音源を加工するのに向いている。
 
 ## 要件
 システム
-- macOS 10.12+（2012年以降のモデル、Intel / Apple Silicon対応）
+- macOS 10.12+（2012年以降のモデル、Intel / Apple Silicon対応）　**問題なし！**
 - Windows 7/8/10/11（64ビット）
 最小条件
 - 2コア2.5GHz CPU、8GB RAM、20GBディスク空き容量
