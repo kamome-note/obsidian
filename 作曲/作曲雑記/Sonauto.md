@@ -2,3 +2,8 @@
 [Sonauto | New Music by You](https://sonauto.ai/)
 
 ![[Sonauto-1746151662995.png|640x325]]
+
+## アカウント
+
+kamome.no.kakegoto@gmail.com
+
