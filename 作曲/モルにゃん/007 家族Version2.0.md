@@ -2,9 +2,9 @@
 
 ## 曲：
 家族Version2.0
-
+![[家族Version2.0.m4a]]
 家族Version2.0：instrumental
-
+![[家族Version2.0inst.m4a]]
 ## 概要：
 ### タイトル：
 家族Version2.0
