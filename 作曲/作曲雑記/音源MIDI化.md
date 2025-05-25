@@ -5,7 +5,7 @@ https://peloreaper.blog.jp/archives/57070224.html
 REAPERで音声をMIDIに変換 (2) ピッチ検出でNote生成
 https://peloreaper.blog.jp/archives/57073180.html
 
-これを使えばサンプル音源を変えることが可能になる。
+これを使えばサンプル音源のピッチを変えることが可能になる。
 
 
 
