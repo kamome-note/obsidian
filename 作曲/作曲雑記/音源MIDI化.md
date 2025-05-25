@@ -19,9 +19,5 @@ Send MIDI events when pitch changesを選択することでMIDI化できる。
 Item右クリックで Apply track/take FX to items as new take (MIDI output) を実行すればOK。
 ![[音源MIDI化-1748160524862.png|593x95]]
 
-
-
-
-
-徐々に音のピッチをぐにゃぐにゃ変化させたい場合は、ピッチエンベロープから実施するといいらしい。
-https://uniy.hateblo.jp/entry/2020/09/21/021555
+ただし、かなり精度が低いのでまともに使えない…。
+![[音源MIDI化-1748163088911.png|593x110]]
