@@ -45,4 +45,12 @@ https://www.minet.jp/contents/article/tracktion-waveform-12-free-quick-start/#ti
 参考動画：作曲支援機能によるオリジナルの制作 ～ 無料DAW Waveform Freeの使い方 ～
 https://www.youtube.com/watch?v=Yv4UXsvUYGA
 
+## 曲を作ってみる（手探り）
+
+### プロジェクトを作成
+
+![[Waveform-1749365761418.png|593x294]]
+
+![[Waveform-1749365828761.png|593x334]]
+
 
