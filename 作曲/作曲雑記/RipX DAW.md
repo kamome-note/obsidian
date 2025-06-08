@@ -1,7 +1,11 @@
 https://h-resolution.com/product/ripx-daw/
 オーディオからステム抽出をAIベースで処理する、音源分離アプリケーション。
 sunoやudioで生成した音源を加工するのに向いている。
-超便利。欲しい。超欲しい。
+超便利。
+
+しかし、評価を見てみると分析精度はそれ程でもないらしい。
+https://www.utaikanade.com/dtm/stem-separation-tools/
+恐らく、単純に分離するアプローチだけではなく、分離しつつ元音源に近付けるように生成することが必要なのだと思われる。
 
 ![[RipX DAW-1746147047946.png|640x378]]
 
